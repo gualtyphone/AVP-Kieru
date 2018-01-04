@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class IdentController : MonoBehaviour {
 
+	public float timeScale = 1;
+
 	// Use this for initialization
 	void Start () {
-		
+		Time.timeScale = timeScale;
 	}
 	
 	// Update is called once per frame

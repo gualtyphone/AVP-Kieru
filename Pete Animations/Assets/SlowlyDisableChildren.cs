@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class SlowlyDisableChildren : MonoBehaviour {
 
@@ -18,6 +19,11 @@ public class SlowlyDisableChildren : MonoBehaviour {
     [SerializeField]
     bool finished = false;
 
+	[SerializeField]
+	float sleep = 0;
+	[SerializeField]
+	float deleteAtTime = 0;
+
     // Use this for initialization
     void Start () {
         Models = new List<Animator>();
@@ -26,21 +32,33 @@ public class SlowlyDisableChildren : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        timer += Time.deltaTime;
-        if (timer >= next)
-        {
-            timer = 0;
-            next = Random.Range(0, disappearSpeed);
+		if (sleep <= 0) {
+			timer += Time.deltaTime;
+			if (timer >= next) {
+				timer = 0;
 
-            int mID = Random.Range(0, Models.Count);
-            Models[mID].gameObject.SetActive( false);
-            Models.RemoveAt(mID);
-        }
+				//josh's loop
+				for (int a = 0; a < deleteAtTime; a++) {
+					if (a < Models.Count) {
+						next = Random.Range (0, disappearSpeed);
 
-        if (Models.Count == 0)
-        {
-            finished = true;
-            gameObject.SetActive( false);
-        }
+						int mID = Random.Range (0, Models.Count);
+						Models [mID].gameObject.SetActive (false);
+						Models.RemoveAt (mID);
+					}
+				}
+			}
+
+			if (Models.Count == 0) {
+				finished = true;
+				//gameObject.SetActive (false);
+				GameObject.FindObjectOfType<Text> ().enabled = true;
+				Color col = GameObject.FindObjectOfType<Text> ().color;
+				col.a += 0.01f;
+				GameObject.FindObjectOfType<Text> ().color = col;
+			}
+		} else {
+			sleep -= Time.deltaTime;
+		}
 	}
 }
