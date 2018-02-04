@@ -966,6 +966,7 @@ GameObject:
   - component: {fileID: 4034912440691148}
   - component: {fileID: 95423993855920500}
   - component: {fileID: 114430970076196496}
+  - component: {fileID: 136016417347107496}
   m_Layer: 0
   m_Name: eve_j_gonzales@Walking
   m_TagString: Untagged
@@ -1080,7 +1081,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1921079300050148}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.986734, y: 9.734203e-17, z: -4.3838954}
+  m_LocalPosition: {x: 2.9301264, y: -1.5, z: 309.5619}
   m_LocalScale: {x: 2.5, y: 2.5, z: 2.5}
   m_Children:
   - {fileID: 4420114864314314}
@@ -1984,6 +1985,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93605ee2b9ba87e41a5c71f939a20873, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  randomRot: 0
+  speed: 0
+  sleep: 0
+  distance: 0
+  debug: 0
+  target: {x: 0, y: 0, z: 0}
+--- !u!136 &136016417347107496
+CapsuleCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1921079300050148}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.18
+  m_Height: 1.3
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.66, z: 0}
 --- !u!137 &137913039099300200
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1

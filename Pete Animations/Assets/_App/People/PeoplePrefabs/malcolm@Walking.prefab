@@ -778,6 +778,7 @@ GameObject:
   - component: {fileID: 4644371262559934}
   - component: {fileID: 95505302669862682}
   - component: {fileID: 114464086378368444}
+  - component: {fileID: 136451252601914478}
   m_Layer: 0
   m_Name: malcolm@Walking
   m_TagString: Untagged
@@ -1895,7 +1896,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1811534688881684}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -25.96462, y: 1.3728387e-16, z: -6.182715}
+  m_LocalPosition: {x: -6.1212883, y: -1.5, z: 313.74054}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4905995278788810}
@@ -2258,6 +2259,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93605ee2b9ba87e41a5c71f939a20873, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  randomRot: 0
+  speed: 0
+  sleep: 0
+  distance: 0
+  debug: 0
+  target: {x: 0, y: 0, z: 0}
 --- !u!114 &114676882275829930
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2302,6 +2309,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b3cf6935fbf67e42b8d6f36d8ff274f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!136 &136451252601914478
+CapsuleCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1811534688881684}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.58232117
+  m_Height: 3.7680821
+  m_Direction: 1
+  m_Center: {x: 0, y: 1.8985536, z: 0.08232117}
 --- !u!137 &137033727999200368
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1

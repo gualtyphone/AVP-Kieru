@@ -826,6 +826,7 @@ GameObject:
   - component: {fileID: 4177757682543618}
   - component: {fileID: 95253463960464264}
   - component: {fileID: 114153561992128244}
+  - component: {fileID: 136437478591269932}
   m_Layer: 0
   m_Name: stefani@Walking
   m_TagString: Untagged
@@ -1340,7 +1341,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1793043454893412}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -30.470839, y: 6.634354e-17, z: -2.9878473}
+  m_LocalPosition: {x: -8.231445, y: -1.4766154, z: 314.60773}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4440610011525588}
@@ -2225,6 +2226,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93605ee2b9ba87e41a5c71f939a20873, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  randomRot: 0
+  speed: 0
+  sleep: 0
+  distance: 0
+  debug: 0
+  target: {x: 0, y: 0, z: 0}
 --- !u!114 &114446125132684232
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2258,6 +2265,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b3cf6935fbf67e42b8d6f36d8ff274f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!136 &136437478591269932
+CapsuleCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1793043454893412}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.58758545
+  m_Height: 3.479425
+  m_Direction: 1
+  m_Center: {x: 0, y: 1.7113426, z: 0.08758545}
 --- !u!137 &137163259909474966
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1

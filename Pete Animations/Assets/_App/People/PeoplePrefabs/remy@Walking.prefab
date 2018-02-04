@@ -36,6 +36,7 @@ GameObject:
   - component: {fileID: 4204057710794136}
   - component: {fileID: 95054679441129392}
   - component: {fileID: 114560454390424864}
+  - component: {fileID: 136467163218661336}
   m_Layer: 0
   m_Name: remy@Walking
   m_TagString: Untagged
@@ -1375,7 +1376,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1034206666065670}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -30.09677, y: 1.0535771e-16, z: -4.7448893}
+  m_LocalPosition: {x: -3.6446626, y: -1.5, z: 315.28824}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4559089220611784}
@@ -2227,6 +2228,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93605ee2b9ba87e41a5c71f939a20873, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  randomRot: 0
+  speed: 0
+  sleep: 0
+  distance: 0
+  debug: 0
+  target: {x: 0, y: 0, z: 0}
 --- !u!114 &114760918508133318
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2260,6 +2267,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b3cf6935fbf67e42b8d6f36d8ff274f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!136 &136467163218661336
+CapsuleCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1034206666065670}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.64148927
+  m_Height: 3.6815524
+  m_Direction: 1
+  m_Center: {x: 0.02021265, y: 1.8932574, z: 0}
 --- !u!137 &137151001415125360
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1

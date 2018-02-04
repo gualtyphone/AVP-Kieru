@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 4308173107724548}
   - component: {fileID: 95204445632465340}
   - component: {fileID: 114017292167456474}
+  - component: {fileID: 136004464227130110}
   m_Layer: 0
   m_Name: regina@Walking
   m_TagString: Untagged
@@ -1523,7 +1524,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1028731871264714}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -29.265347, y: 1.4161474e-16, z: -6.3777604}
+  m_LocalPosition: {x: -4.6279297, y: -0.727231, z: 315.09372}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4058209629698940}
@@ -2258,6 +2259,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93605ee2b9ba87e41a5c71f939a20873, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  randomRot: 0
+  speed: 0
+  sleep: 0
+  distance: 0
+  debug: 0
+  target: {x: 0, y: 0, z: 0}
 --- !u!114 &114154886919402104
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2302,6 +2309,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b3cf6935fbf67e42b8d6f36d8ff274f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!136 &136004464227130110
+CapsuleCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1028731871264714}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.56062984
+  m_Height: 3.4389849
+  m_Direction: 1
+  m_Center: {x: -0.02021265, y: 1.7248182, z: 0.013466835}
 --- !u!137 &137077713024387002
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1

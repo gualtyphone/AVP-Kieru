@@ -854,6 +854,7 @@ GameObject:
   - component: {fileID: 4430887889729156}
   - component: {fileID: 95912504034186490}
   - component: {fileID: 114884083310535906}
+  - component: {fileID: 136504835969112198}
   m_Layer: 0
   m_Name: Andromeda@Walking
   m_TagString: Untagged
@@ -1603,7 +1604,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1727774402101234}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.407503, y: 6.637209e-17, z: -2.9891334}
+  m_LocalPosition: {x: 2.6553028, y: -1.5, z: 307.25845}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4206259609171028}
@@ -2205,6 +2206,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93605ee2b9ba87e41a5c71f939a20873, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  randomRot: 0
+  speed: 0
+  sleep: 0
+  distance: 0
+  debug: 0
+  target: {x: 0, y: 0, z: 0}
 --- !u!114 &114966236133280928
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2216,6 +2223,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b3cf6935fbf67e42b8d6f36d8ff274f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!136 &136504835969112198
+CapsuleCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1727774402101234}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.5408325
+  m_Height: 3.3
+  m_Direction: 1
+  m_Center: {x: 0, y: 1.62, z: 0.04083252}
 --- !u!137 &137186776944002194
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1

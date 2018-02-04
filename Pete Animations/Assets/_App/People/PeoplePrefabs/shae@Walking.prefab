@@ -794,6 +794,7 @@ GameObject:
   - component: {fileID: 4876591667507140}
   - component: {fileID: 95364395973015372}
   - component: {fileID: 114825740904761764}
+  - component: {fileID: 136143085893666600}
   m_Layer: 0
   m_Name: shae@Walking
   m_TagString: Untagged
@@ -2114,7 +2115,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1733874033103414}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -28.905176, y: 6.691526e-17, z: -3.0135953}
+  m_LocalPosition: {x: -3.4964354, y: -1.5, z: 314.68182}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4582050200969986}
@@ -2259,6 +2260,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93605ee2b9ba87e41a5c71f939a20873, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  randomRot: 0
+  speed: 0
+  sleep: 0
+  distance: 0
+  debug: 0
+  target: {x: 0, y: 0, z: 0}
+--- !u!136 &136143085893666600
+CapsuleCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1733874033103414}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.62127626
+  m_Height: 3.344675
+  m_Direction: 1
+  m_Center: {x: -0.013475299, y: 1.7382932, z: 0}
 --- !u!137 &137066077968337234
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1

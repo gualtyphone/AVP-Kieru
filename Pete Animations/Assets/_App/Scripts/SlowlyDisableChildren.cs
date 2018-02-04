@@ -49,14 +49,14 @@ public class SlowlyDisableChildren : MonoBehaviour {
 				}
 			}
 
-			if (Models.Count == 0) {
-				finished = true;
-				//gameObject.SetActive (false);
-				GameObject.FindObjectOfType<Text> ().enabled = true;
-				Color col = GameObject.FindObjectOfType<Text> ().color;
-				col.a += 0.01f;
-				GameObject.FindObjectOfType<Text> ().color = col;
-			}
+			//if (Models.Count == 0) {
+			//	finished = true;
+			//	//gameObject.SetActive (false);
+			//	GameObject.FindObjectOfType<Text> ().enabled = true;
+			//	Color col = GameObject.FindObjectOfType<Text> ().color;
+			//	col.a += 0.01f;
+			//	GameObject.FindObjectOfType<Text> ().color = col;
+			//}
 		} else {
 			sleep -= Time.deltaTime;
 		}
