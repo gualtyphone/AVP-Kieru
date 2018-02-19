@@ -2,6 +2,9 @@ Textures:
 http://www.3dxo.com/textures/concrete
 http://www.3dxo.com/textures/5328_grass_40
 http://www.3dxo.com/textures/5331_iron_4
+http://www.3dxo.com/textures/10520_patterned_carpet
+http://www.3dxo.com/textures/10528_indoor_wood_44
+http://www.3dxo.com/images/textures/s/holzv2_11.jpg
 
 fantasy mall:
 https://free3d.com/3d-model/fantasy-mall-17943.html
