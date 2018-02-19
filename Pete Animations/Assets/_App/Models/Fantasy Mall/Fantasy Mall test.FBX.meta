@@ -40,6 +40,21 @@ ModelImporter:
     100064: Grass003
     100066: Floor
     100068: structure001
+    100070: fir_trees001
+    100072: palm_leaves001
+    100074: palm_trunks001
+    100076: MainShop
+    100078: MainShop002
+    100080: MainShop003
+    100082: Shop002
+    100084: Shop003
+    100086: Shop004
+    100088: Shop005
+    100090: Shop006
+    100092: Shop1
+    100094: SideShop001
+    100096: SideShop002
+    100098: SideShop003
     400000: bench_black
     400002: bench_wood
     400004: escalators_black
@@ -75,6 +90,21 @@ ModelImporter:
     400064: Grass003
     400066: Floor
     400068: structure001
+    400070: fir_trees001
+    400072: palm_leaves001
+    400074: palm_trunks001
+    400076: MainShop
+    400078: MainShop002
+    400080: MainShop003
+    400082: Shop002
+    400084: Shop003
+    400086: Shop004
+    400088: Shop005
+    400090: Shop006
+    400092: Shop1
+    400094: SideShop001
+    400096: SideShop002
+    400098: SideShop003
     2100000: material_1
     2100002: material_1_bench_wood
     2100004: material_1_escalators_black
@@ -256,6 +286,12 @@ ModelImporter:
     2100356: 01 - Default
     2100358: 02 - Default
     2100360: 01 - MainFloor
+    2100362: 03 - Default
+    2100364: No Name
+    2100366: 'Material #48'
+    2100368: 'Material #46'
+    2100370: 'Material #51'
+    2100372: 'Material #47'
     2300000: bench_black
     2300002: bench_wood
     2300004: escalators_black
@@ -290,6 +326,21 @@ ModelImporter:
     2300062: Grass003
     2300064: Floor
     2300066: structure001
+    2300068: fir_trees001
+    2300070: palm_leaves001
+    2300072: palm_trunks001
+    2300074: MainShop
+    2300076: MainShop002
+    2300078: MainShop003
+    2300080: Shop002
+    2300082: Shop003
+    2300084: Shop004
+    2300086: Shop005
+    2300088: Shop006
+    2300090: Shop1
+    2300092: SideShop001
+    2300094: SideShop002
+    2300096: SideShop003
     3300000: bench_black
     3300002: bench_wood
     3300004: escalators_black
@@ -324,6 +375,21 @@ ModelImporter:
     3300062: Grass003
     3300064: Floor
     3300066: structure001
+    3300068: fir_trees001
+    3300070: palm_leaves001
+    3300072: palm_trunks001
+    3300074: MainShop
+    3300076: MainShop002
+    3300078: MainShop003
+    3300080: Shop002
+    3300082: Shop003
+    3300084: Shop004
+    3300086: Shop005
+    3300088: Shop006
+    3300090: Shop1
+    3300092: SideShop001
+    3300094: SideShop002
+    3300096: SideShop003
     4300000: bench_black
     4300002: bench_wood
     4300004: escalators_black
@@ -358,6 +424,21 @@ ModelImporter:
     4300062: Grass003
     4300064: Floor
     4300066: structure001
+    4300068: palm_trunks001
+    4300070: palm_leaves001
+    4300072: fir_trees001
+    4300074: Shop1
+    4300076: Shop002
+    4300078: Shop003
+    4300080: Shop004
+    4300082: Shop005
+    4300084: Shop006
+    4300086: MainShop
+    4300088: SideShop001
+    4300090: MainShop002
+    4300092: MainShop003
+    4300094: SideShop002
+    4300096: SideShop003
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
@@ -397,7 +478,7 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    swapUVChannels: 1
+    swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
