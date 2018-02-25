@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 44e9df364b4e58a4981122b98c08f03e
+timeCreated: 1519561528
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: Abdomen:1
+    100004: //RootNode
+    100006: Chest
+    100008: Chest:1
+    100010: Head
+    100012: Hip
+    100014: Hip:1
+    100016: Left Eye
+    100018: Left Foot
+    100020: Left Hand
+    100022: Left Mid 1
+    100024: Left Mid 2
+    100026: Left Mid 3
+    100028: Left Shin
+    100030: Left Thigh
+    100032: Left Toe
+    100034: LeftCollar
+    100036: LeftCol~15
+    100038: LeftFor~13
+    100040: LeftIndex1
+    100042: LeftIndex2
+    100044: LeftIndex3
+    100046: LeftPinky1
+    100048: LeftPinky2
+    100050: LeftPinky3
+    100052: LeftRing1
+    100054: LeftRing2
+    100056: LeftRing3
+    100058: LeftSho~12
+    100060: LeftThi~17
+    100062: LeftThumb1
+    100064: LeftThumb2
+    100066: LeftThumb3
+    100068: Neck
+    100070: Right Eye
+    100072: Right Foot
+    100074: Right Hand
+    100076: Right Shin
+    100078: Right Toe
+    100080: RightCol~0
+    100082: RightCo~14
+    100084: RightFor~2
+    100086: RightInd~6
+    100088: RightInd~7
+    100090: RightInd~8
+    100092: RightMid1
+    100094: RightMid2
+    100096: RightMid3
+    100098: RightPin~9
+    100100: RightPi~10
+    100102: RightPi~11
+    100104: RightRing1
+    100106: RightRing2
+    100108: RightRing3
+    100110: RightSho~1
+    100112: RightThigh
+    100114: RightThu~3
+    100116: RightThu~4
+    100118: RightThu~5
+    100120: RightTh~16
+    400000: Abdomen
+    400002: Abdomen:1
+    400004: //RootNode
+    400006: Chest
+    400008: Chest:1
+    400010: Head
+    400012: Hip
+    400014: Hip:1
+    400016: Left Eye
+    400018: Left Foot
+    400020: Left Hand
+    400022: Left Mid 1
+    400024: Left Mid 2
+    400026: Left Mid 3
+    400028: Left Shin
+    400030: Left Thigh
+    400032: Left Toe
+    400034: LeftCollar
+    400036: LeftCol~15
+    400038: LeftFor~13
+    400040: LeftIndex1
+    400042: LeftIndex2
+    400044: LeftIndex3
+    400046: LeftPinky1
+    400048: LeftPinky2
+    400050: LeftPinky3
+    400052: LeftRing1
+    400054: LeftRing2
+    400056: LeftRing3
+    400058: LeftSho~12
+    400060: LeftThi~17
+    400062: LeftThumb1
+    400064: LeftThumb2
+    400066: LeftThumb3
+    400068: Neck
+    400070: Right Eye
+    400072: Right Foot
+    400074: Right Hand
+    400076: Right Shin
+    400078: Right Toe
+    400080: RightCol~0
+    400082: RightCo~14
+    400084: RightFor~2
+    400086: RightInd~6
+    400088: RightInd~7
+    400090: RightInd~8
+    400092: RightMid1
+    400094: RightMid2
+    400096: RightMid3
+    400098: RightPin~9
+    400100: RightPi~10
+    400102: RightPi~11
+    400104: RightRing1
+    400106: RightRing2
+    400108: RightRing3
+    400110: RightSho~1
+    400112: RightThigh
+    400114: RightThu~3
+    400116: RightThu~4
+    400118: RightThu~5
+    400120: RightTh~16
+    2100000: dress_1
+    2100002: toenail
+    2100004: skin
+    2100006: fingerNails
+    2100008: pupil
+    2100010: eyeball
+    2100012: iris
+    2100014: lips
+    2100016: eyeBrow
+    2100018: innerMouth
+    2100020: tongue
+    2100022: teeth
+    2100024: lashes
+    2100026: nipple
+    2300000: Abdomen
+    2300002: Abdomen:1
+    2300004: Chest
+    2300006: Chest:1
+    2300008: Head
+    2300010: Hip
+    2300012: Hip:1
+    2300014: Left Eye
+    2300016: Left Foot
+    2300018: Left Hand
+    2300020: Left Mid 1
+    2300022: Left Mid 2
+    2300024: Left Mid 3
+    2300026: Left Shin
+    2300028: Left Thigh
+    2300030: Left Toe
+    2300032: LeftCollar
+    2300034: LeftCol~15
+    2300036: LeftFor~13
+    2300038: LeftIndex1
+    2300040: LeftIndex2
+    2300042: LeftIndex3
+    2300044: LeftPinky1
+    2300046: LeftPinky2
+    2300048: LeftPinky3
+    2300050: LeftRing1
+    2300052: LeftRing2
+    2300054: LeftRing3
+    2300056: LeftSho~12
+    2300058: LeftThi~17
+    2300060: LeftThumb1
+    2300062: LeftThumb2
+    2300064: LeftThumb3
+    2300066: Neck
+    2300068: Right Eye
+    2300070: Right Foot
+    2300072: Right Hand
+    2300074: Right Shin
+    2300076: Right Toe
+    2300078: RightCol~0
+    2300080: RightCo~14
+    2300082: RightFor~2
+    2300084: RightInd~6
+    2300086: RightInd~7
+    2300088: RightInd~8
+    2300090: RightMid1
+    2300092: RightMid2
+    2300094: RightMid3
+    2300096: RightPin~9
+    2300098: RightPi~10
+    2300100: RightPi~11
+    2300102: RightRing1
+    2300104: RightRing2
+    2300106: RightRing3
+    2300108: RightSho~1
+    2300110: RightThigh
+    2300112: RightThu~3
+    2300114: RightThu~4
+    2300116: RightThu~5
+    2300118: RightTh~16
+    3300000: Abdomen
+    3300002: Abdomen:1
+    3300004: Chest
+    3300006: Chest:1
+    3300008: Head
+    3300010: Hip
+    3300012: Hip:1
+    3300014: Left Eye
+    3300016: Left Foot
+    3300018: Left Hand
+    3300020: Left Mid 1
+    3300022: Left Mid 2
+    3300024: Left Mid 3
+    3300026: Left Shin
+    3300028: Left Thigh
+    3300030: Left Toe
+    3300032: LeftCollar
+    3300034: LeftCol~15
+    3300036: LeftFor~13
+    3300038: LeftIndex1
+    3300040: LeftIndex2
+    3300042: LeftIndex3
+    3300044: LeftPinky1
+    3300046: LeftPinky2
+    3300048: LeftPinky3
+    3300050: LeftRing1
+    3300052: LeftRing2
+    3300054: LeftRing3
+    3300056: LeftSho~12
+    3300058: LeftThi~17
+    3300060: LeftThumb1
+    3300062: LeftThumb2
+    3300064: LeftThumb3
+    3300066: Neck
+    3300068: Right Eye
+    3300070: Right Foot
+    3300072: Right Hand
+    3300074: Right Shin
+    3300076: Right Toe
+    3300078: RightCol~0
+    3300080: RightCo~14
+    3300082: RightFor~2
+    3300084: RightInd~6
+    3300086: RightInd~7
+    3300088: RightInd~8
+    3300090: RightMid1
+    3300092: RightMid2
+    3300094: RightMid3
+    3300096: RightPin~9
+    3300098: RightPi~10
+    3300100: RightPi~11
+    3300102: RightRing1
+    3300104: RightRing2
+    3300106: RightRing3
+    3300108: RightSho~1
+    3300110: RightThigh
+    3300112: RightThu~3
+    3300114: RightThu~4
+    3300116: RightThu~5
+    3300118: RightTh~16
+    4300000: LeftThi~17
+    4300002: RightTh~16
+    4300004: LeftCol~15
+    4300006: RightCo~14
+    4300008: Chest:1
+    4300010: Abdomen:1
+    4300012: Hip:1
+    4300014: Left Toe
+    4300016: Left Foot
+    4300018: Left Shin
+    4300020: Left Thigh
+    4300022: Right Toe
+    4300024: Right Foot
+    4300026: Right Shin
+    4300028: RightThigh
+    4300030: LeftPinky3
+    4300032: LeftPinky2
+    4300034: LeftPinky1
+    4300036: LeftRing3
+    4300038: LeftRing2
+    4300040: LeftRing1
+    4300042: Left Mid 3
+    4300044: Left Mid 2
+    4300046: Left Mid 1
+    4300048: LeftIndex3
+    4300050: LeftIndex2
+    4300052: LeftIndex1
+    4300054: LeftThumb3
+    4300056: LeftThumb2
+    4300058: LeftThumb1
+    4300060: Left Hand
+    4300062: LeftFor~13
+    4300064: LeftSho~12
+    4300066: LeftCollar
+    4300068: RightPi~11
+    4300070: RightPi~10
+    4300072: RightPin~9
+    4300074: RightRing3
+    4300076: RightRing2
+    4300078: RightRing1
+    4300080: RightMid3
+    4300082: RightMid2
+    4300084: RightMid1
+    4300086: RightInd~8
+    4300088: RightInd~7
+    4300090: RightInd~6
+    4300092: RightThu~5
+    4300094: RightThu~4
+    4300096: RightThu~3
+    4300098: Right Hand
+    4300100: RightFor~2
+    4300102: RightSho~1
+    4300104: RightCol~0
+    4300106: Right Eye
+    4300108: Left Eye
+    4300110: Head
+    4300112: Neck
+    4300114: Chest
+    4300116: Abdomen
+    4300118: Hip
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

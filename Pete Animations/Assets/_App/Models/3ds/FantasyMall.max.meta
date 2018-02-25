@@ -50,6 +50,84 @@ ModelImporter:
     100084: tables001
     100086: tables002
     100088: tables003
+    100090: Box002
+    100092: Box003
+    100094: Box004
+    100096: Box005
+    100098: Box006
+    100100: Box007
+    100102: Box008
+    100104: Box009
+    100106: Box010
+    100108: Box011
+    100110: Box012
+    100112: Box013
+    100114: Box014
+    100116: Box015
+    100118: Box016
+    100120: Box017
+    100122: Box018
+    100124: Box019
+    100126: MainShop005
+    100128: MainShop006
+    100130: MainShop007
+    100132: MainShop008
+    100134: MainShop009
+    100136: MainShop010
+    100138: MainShop011
+    100140: MainShop012
+    100142: MainShop013
+    100144: MainShop014
+    100146: MainShop015
+    100148: MainShop016
+    100150: MainShop017
+    100152: MainShop018
+    100154: MainShop019
+    100156: MainShop020
+    100158: MainShop021
+    100160: MainShop022
+    100162: MainShop023
+    100164: MainShop024
+    100166: MainShop025
+    100168: MainShop026
+    100170: MainShop027
+    100172: MainShop028
+    100174: MainShop029
+    100176: MainShop030
+    100178: MainShop031
+    100180: MainShop032
+    100182: MainShop033
+    100184: MainShop034
+    100186: MainShop035
+    100188: MainShop036
+    100190: MainShop037
+    100192: MainShop038
+    100194: MainShop039
+    100196: Shop
+    100198: Shop001
+    100200: Shop007
+    100202: Shop008
+    100204: Shop009
+    100206: Shop010
+    100208: Shop011
+    100210: Shop012
+    100212: Shop013
+    100214: Shop014
+    100216: Shop015
+    100218: Shop016
+    100220: Shop017
+    100222: Shop018
+    100224: Shop019
+    100226: Shop020
+    100228: Shop021
+    100230: Shop022
+    100232: Shop023
+    100234: Shop024
+    100236: Shop025
+    100238: Shop026
+    100240: SideShop004
+    100242: SideShop005
+    100244: structure002
     400000: bench_black
     400002: bench_wood
     400004: //RootNode
@@ -95,6 +173,84 @@ ModelImporter:
     400084: tables001
     400086: tables002
     400088: tables003
+    400090: Box002
+    400092: Box003
+    400094: Box004
+    400096: Box005
+    400098: Box006
+    400100: Box007
+    400102: Box008
+    400104: Box009
+    400106: Box010
+    400108: Box011
+    400110: Box012
+    400112: Box013
+    400114: Box014
+    400116: Box015
+    400118: Box016
+    400120: Box017
+    400122: Box018
+    400124: Box019
+    400126: MainShop005
+    400128: MainShop006
+    400130: MainShop007
+    400132: MainShop008
+    400134: MainShop009
+    400136: MainShop010
+    400138: MainShop011
+    400140: MainShop012
+    400142: MainShop013
+    400144: MainShop014
+    400146: MainShop015
+    400148: MainShop016
+    400150: MainShop017
+    400152: MainShop018
+    400154: MainShop019
+    400156: MainShop020
+    400158: MainShop021
+    400160: MainShop022
+    400162: MainShop023
+    400164: MainShop024
+    400166: MainShop025
+    400168: MainShop026
+    400170: MainShop027
+    400172: MainShop028
+    400174: MainShop029
+    400176: MainShop030
+    400178: MainShop031
+    400180: MainShop032
+    400182: MainShop033
+    400184: MainShop034
+    400186: MainShop035
+    400188: MainShop036
+    400190: MainShop037
+    400192: MainShop038
+    400194: MainShop039
+    400196: Shop
+    400198: Shop001
+    400200: Shop007
+    400202: Shop008
+    400204: Shop009
+    400206: Shop010
+    400208: Shop011
+    400210: Shop012
+    400212: Shop013
+    400214: Shop014
+    400216: Shop015
+    400218: Shop016
+    400220: Shop017
+    400222: Shop018
+    400224: Shop019
+    400226: Shop020
+    400228: Shop021
+    400230: Shop022
+    400232: Shop023
+    400234: Shop024
+    400236: Shop025
+    400238: Shop026
+    400240: SideShop004
+    400242: SideShop005
+    400244: structure002
     2100000: material_1_structure
     2100002: material_1
     2100004: material_1_bench_wood
@@ -257,6 +413,11 @@ ModelImporter:
     2100318: 'Material #46'
     2100320: 'Material #51'
     2100322: 'Material #47'
+    2100324: 06 - Default first
+    2100326: 06 - Default
+    2100328: 04 - Default
+    2100330: 05 - Default
+    2100332: 05 - DefaultOther
     2300000: bench_black
     2300002: bench_wood
     2300004: fir_trees
@@ -301,6 +462,84 @@ ModelImporter:
     2300082: tables001
     2300084: tables002
     2300086: tables003
+    2300088: Box002
+    2300090: Box003
+    2300092: Box004
+    2300094: Box005
+    2300096: Box006
+    2300098: Box007
+    2300100: Box008
+    2300102: Box009
+    2300104: Box010
+    2300106: Box011
+    2300108: Box012
+    2300110: Box013
+    2300112: Box014
+    2300114: Box015
+    2300116: Box016
+    2300118: Box017
+    2300120: Box018
+    2300122: Box019
+    2300124: MainShop005
+    2300126: MainShop006
+    2300128: MainShop007
+    2300130: MainShop008
+    2300132: MainShop009
+    2300134: MainShop010
+    2300136: MainShop011
+    2300138: MainShop012
+    2300140: MainShop013
+    2300142: MainShop014
+    2300144: MainShop015
+    2300146: MainShop016
+    2300148: MainShop017
+    2300150: MainShop018
+    2300152: MainShop019
+    2300154: MainShop020
+    2300156: MainShop021
+    2300158: MainShop022
+    2300160: MainShop023
+    2300162: MainShop024
+    2300164: MainShop025
+    2300166: MainShop026
+    2300168: MainShop027
+    2300170: MainShop028
+    2300172: MainShop029
+    2300174: MainShop030
+    2300176: MainShop031
+    2300178: MainShop032
+    2300180: MainShop033
+    2300182: MainShop034
+    2300184: MainShop035
+    2300186: MainShop036
+    2300188: MainShop037
+    2300190: MainShop038
+    2300192: MainShop039
+    2300194: Shop
+    2300196: Shop001
+    2300198: Shop007
+    2300200: Shop008
+    2300202: Shop009
+    2300204: Shop010
+    2300206: Shop011
+    2300208: Shop012
+    2300210: Shop013
+    2300212: Shop014
+    2300214: Shop015
+    2300216: Shop016
+    2300218: Shop017
+    2300220: Shop018
+    2300222: Shop019
+    2300224: Shop020
+    2300226: Shop021
+    2300228: Shop022
+    2300230: Shop023
+    2300232: Shop024
+    2300234: Shop025
+    2300236: Shop026
+    2300238: SideShop004
+    2300240: SideShop005
+    2300242: structure002
     3300000: bench_black
     3300002: bench_wood
     3300004: fir_trees
@@ -345,6 +584,84 @@ ModelImporter:
     3300082: tables001
     3300084: tables002
     3300086: tables003
+    3300088: Box002
+    3300090: Box003
+    3300092: Box004
+    3300094: Box005
+    3300096: Box006
+    3300098: Box007
+    3300100: Box008
+    3300102: Box009
+    3300104: Box010
+    3300106: Box011
+    3300108: Box012
+    3300110: Box013
+    3300112: Box014
+    3300114: Box015
+    3300116: Box016
+    3300118: Box017
+    3300120: Box018
+    3300122: Box019
+    3300124: MainShop005
+    3300126: MainShop006
+    3300128: MainShop007
+    3300130: MainShop008
+    3300132: MainShop009
+    3300134: MainShop010
+    3300136: MainShop011
+    3300138: MainShop012
+    3300140: MainShop013
+    3300142: MainShop014
+    3300144: MainShop015
+    3300146: MainShop016
+    3300148: MainShop017
+    3300150: MainShop018
+    3300152: MainShop019
+    3300154: MainShop020
+    3300156: MainShop021
+    3300158: MainShop022
+    3300160: MainShop023
+    3300162: MainShop024
+    3300164: MainShop025
+    3300166: MainShop026
+    3300168: MainShop027
+    3300170: MainShop028
+    3300172: MainShop029
+    3300174: MainShop030
+    3300176: MainShop031
+    3300178: MainShop032
+    3300180: MainShop033
+    3300182: MainShop034
+    3300184: MainShop035
+    3300186: MainShop036
+    3300188: MainShop037
+    3300190: MainShop038
+    3300192: MainShop039
+    3300194: Shop
+    3300196: Shop001
+    3300198: Shop007
+    3300200: Shop008
+    3300202: Shop009
+    3300204: Shop010
+    3300206: Shop011
+    3300208: Shop012
+    3300210: Shop013
+    3300212: Shop014
+    3300214: Shop015
+    3300216: Shop016
+    3300218: Shop017
+    3300220: Shop018
+    3300222: Shop019
+    3300224: Shop020
+    3300226: Shop021
+    3300228: Shop022
+    3300230: Shop023
+    3300232: Shop024
+    3300234: Shop025
+    3300236: Shop026
+    3300238: SideShop004
+    3300240: SideShop005
+    3300242: structure002
     4300000: structure
     4300002: bench_black
     4300004: bench_wood
@@ -389,6 +706,84 @@ ModelImporter:
     4300082: MainShop003
     4300084: SideShop002
     4300086: SideShop003
+    4300088: structure002
+    4300090: MainShop005
+    4300092: MainShop006
+    4300094: MainShop007
+    4300096: MainShop008
+    4300098: MainShop009
+    4300100: MainShop010
+    4300102: MainShop011
+    4300104: MainShop012
+    4300106: MainShop013
+    4300108: MainShop014
+    4300110: MainShop015
+    4300112: MainShop016
+    4300114: MainShop017
+    4300116: MainShop018
+    4300118: MainShop019
+    4300120: MainShop020
+    4300122: MainShop021
+    4300124: MainShop022
+    4300126: MainShop023
+    4300128: MainShop024
+    4300130: MainShop025
+    4300132: MainShop026
+    4300134: MainShop027
+    4300136: MainShop028
+    4300138: MainShop029
+    4300140: MainShop030
+    4300142: MainShop031
+    4300144: MainShop032
+    4300146: MainShop033
+    4300148: MainShop034
+    4300150: MainShop035
+    4300152: MainShop036
+    4300154: MainShop037
+    4300156: MainShop038
+    4300158: MainShop039
+    4300160: SideShop004
+    4300162: SideShop005
+    4300164: Shop
+    4300166: Box002
+    4300168: Box003
+    4300170: Shop001
+    4300172: Box004
+    4300174: Box005
+    4300176: Box006
+    4300178: Box007
+    4300180: Shop007
+    4300182: Shop008
+    4300184: Shop009
+    4300186: Box008
+    4300188: Box009
+    4300190: Shop010
+    4300192: Shop011
+    4300194: Shop012
+    4300196: Box010
+    4300198: Box011
+    4300200: Shop013
+    4300202: Shop014
+    4300204: Shop015
+    4300206: Box012
+    4300208: Box013
+    4300210: Shop016
+    4300212: Shop017
+    4300214: Shop018
+    4300216: Box014
+    4300218: Box015
+    4300220: Shop019
+    4300222: Shop020
+    4300224: Shop021
+    4300226: Box016
+    4300228: Box017
+    4300230: Shop022
+    4300232: Shop023
+    4300234: Shop024
+    4300236: Box018
+    4300238: Box019
+    4300240: Shop025
+    4300242: Shop026
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
