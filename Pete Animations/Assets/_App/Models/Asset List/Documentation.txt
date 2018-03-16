@@ -1,1 +1,78 @@
-Benches = http://www.cadnav.com/3d-models/model-241.html
+Benches = 
+http://www.cadnav.com/3d-models/model-241.html
+http://www.cadnav.com/3d-models/model-11889.html
+
+clothes racks =
+http://www.cadnav.com/3d-models/model-21558.html
+http://www.cadnav.com/3d-models/model-21689.html
+http://www.cadnav.com/3d-models/model-21563.html
+http://www.cadnav.com/3d-models/model-27357.html
+http://www.cadnav.com/3d-models/model-27335.html
+http://www.cadnav.com/3d-models/model-27398.html
+http://www.cadnav.com/3d-models/model-27337.html
+http://www.cadnav.com/3d-models/model-21715.html
+http://www.cadnav.com/3d-models/model-21454.html
+
+shoe display =
+http://www.cadnav.com/3d-models/model-27532.html
+http://www.cadnav.com/3d-models/model-33002.html
+http://www.cadnav.com/3d-models/model-7468.html
+
+vending machines/other stalls =
+http://www.cadnav.com/3d-models/model-33206.html
+http://www.cadnav.com/3d-models/model-27396.html
+http://www.cadnav.com/3d-models/model-27376.html
+http://www.cadnav.com/3d-models/model-27381.html
+http://www.cadnav.com/3d-models/model-27380.html
+
+parasol =
+https://free3d.com/3d-model/puo-4003-91757.html
+http://www.cadnav.com/3d-models/model-258.html
+
+mannequins =
+http://www.cadnav.com/3d-models/model-27349.html
+http://www.cadnav.com/3d-models/model-21705.html
+http://www.cadnav.com/3d-models/model-36701.html
+http://www.cadnav.com/3d-models/model-27441.html
+http://www.cadnav.com/3d-models/model-27440.html
+
+light =
+http://www.cadnav.com/3d-models/model-16808.html
+http://www.cadnav.com/3d-models/model-4405.html
+http://www.cadnav.com/3d-models/model-4407.html
+
+shopping cart =
+http://www.cadnav.com/3d-models/model-27367.html
+http://www.cadnav.com/3d-models/model-27369.html
+
+bags = 
+http://www.cadnav.com/3d-models/model-3714.html
+http://www.cadnav.com/3d-models/model-21881.html
+http://www.cadnav.com/3d-models/model-37304.html
+http://www.cadnav.com/3d-models/model-21847.html
+http://www.cadnav.com/3d-models/model-21853.html
+http://www.cadnav.com/3d-models/model-21858.html
+http://www.cadnav.com/3d-models/model-21818.html
+http://www.cadnav.com/3d-models/model-21823.html
+http://www.cadnav.com/3d-models/model-21506.html
+http://www.cadnav.com/3d-models/model-21508.html
+
+drinking fountain = 
+http://www.cadnav.com/3d-models/model-33203.html
+
+computers =
+https://free3d.com/3d-model/notebook-low-poly-version-57341.html
+https://free3d.com/3d-model/imac-25593.html
+https://free3d.com/3d-model/monitor-79124.html
+https://free3d.com/3d-model/pc-18210.html
+https://free3d.com/3d-model/graphic-card-nvidia-gtx1070-15850.html
+https://free3d.com/3d-model/nvidia-8400gs-37091.html
+
+food =
+https://www.cgtrader.com/free-3d-models/interior/office/tower-drinks-e1aa14bec07f0c784245ac65f7bf9b57
+
+tables = 
+http://www.cadnav.com/3d-models/model-8845.html
+http://www.cadnav.com/3d-models/model-11613.html
+
+
