@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 416b36825dca19e40a4fd0e510a22751
+timeCreated: 1521283159
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box01
+    100002: //RootNode
+    100004: VRayLight01
+    100006: VRayLight02
+    100008: X021_002_dress pants rack
+    100010: X021_002_hanger13
+    100012: X021_002_hanger14
+    100014: X021_002_hanger15
+    100016: X021_002_hanger16
+    100018: X021_002_hanger17
+    100020: X021_002_hanger18
+    100022: X021_002_hanger19
+    100024: X021_002_hanger20
+    100026: X021_002_hanger22
+    100028: X021_002_hanger23
+    100030: X021_002_hanger24
+    100032: X021_002_hanger25
+    100034: X021_002_hanger26
+    100036: X021_002_hanger27
+    100038: X021_002_hanger28
+    100040: X021_002_hanger29
+    100042: X021_002_hanger30
+    100044: X021_002_hanger31
+    100046: X021_002_hanger32
+    100048: X021_002_hanger33
+    100050: X021_002_hanger34
+    100052: X021_002_hanger35
+    100054: X021_002_hanger36
+    100056: X021_002_hanger37
+    100058: X021_002_hanger38
+    100060: X021_002_hanger39
+    100062: X021_002_hanger40
+    100064: X021_002_hanger41
+    100066: X021_002_hanger42
+    100068: X021_002_hanger43
+    100070: X021_002_hanger44
+    100072: X021_002_hanger45
+    100074: X021_002_hanger46
+    100076: X021_002_hanger47
+    100078: X021_002_hanger48
+    100080: X021_002_hanger49
+    100082: X021_002_hanger50
+    100084: X021_002_hanger51
+    100086: X021_002_hanger52
+    100088: X021_002_hanger53
+    100090: X021_002_hanger54
+    100092: X021_002_hanger55
+    100094: X021_002_hanger56
+    100096: X021_002_hanger57
+    100098: X021_002_hanger58
+    100100: X021_002_hanger59
+    100102: X021_002_pants long
+    100104: X021_002_pants long01
+    100106: X021_002_pants long02
+    100108: X021_002_pants long04
+    100110: X021_002_pants long05
+    100112: X021_002_pants long06
+    100114: X021_002_pants long07
+    100116: X021_002_pants long08
+    100118: X021_002_pants long10
+    100120: X021_002_pants long11
+    100122: X021_002_pants long12
+    100124: X021_002_pants long13
+    100126: X021_002_pants long14
+    100128: X021_002_pants long15
+    100130: X021_002_pants long16
+    100132: X021_002_pants long17
+    100134: X021_002_pants med
+    100136: X021_002_pants med01
+    100138: X021_002_pants med02
+    100140: X021_002_pants med03
+    100142: X021_002_pants med04
+    100144: X021_002_pants med05
+    100146: X021_002_pants med06
+    100148: X021_002_pants med07
+    100150: X021_002_pants med08
+    100152: X021_002_pants med09
+    100154: X021_002_pants rack
+    100156: X021_002_pants short
+    100158: X021_002_pants short01
+    100160: X021_002_pants short02
+    100162: X021_002_pants short03
+    100164: X021_002_pants short04
+    100166: X021_002_pants short05
+    100168: X021_002_pants short06
+    100170: X021_002_pants short07
+    100172: X021_002_pants short08
+    100174: X021_002_pants short09
+    100176: X021_002_pants short10
+    100178: X021_002_pants short11
+    100180: X021_002_pants short12
+    100182: X021_002_pants short13
+    100184: X021_002_pants short14
+    100186: X021_002_pants short15
+    100188: X021_002_pants short16
+    100190: X021_002_pants short17
+    100192: X021_002_pants short18
+    100194: X021_002_pants short19
+    400000: Box01
+    400002: //RootNode
+    400004: VRayLight01
+    400006: VRayLight02
+    400008: X021_002_dress pants rack
+    400010: X021_002_hanger13
+    400012: X021_002_hanger14
+    400014: X021_002_hanger15
+    400016: X021_002_hanger16
+    400018: X021_002_hanger17
+    400020: X021_002_hanger18
+    400022: X021_002_hanger19
+    400024: X021_002_hanger20
+    400026: X021_002_hanger22
+    400028: X021_002_hanger23
+    400030: X021_002_hanger24
+    400032: X021_002_hanger25
+    400034: X021_002_hanger26
+    400036: X021_002_hanger27
+    400038: X021_002_hanger28
+    400040: X021_002_hanger29
+    400042: X021_002_hanger30
+    400044: X021_002_hanger31
+    400046: X021_002_hanger32
+    400048: X021_002_hanger33
+    400050: X021_002_hanger34
+    400052: X021_002_hanger35
+    400054: X021_002_hanger36
+    400056: X021_002_hanger37
+    400058: X021_002_hanger38
+    400060: X021_002_hanger39
+    400062: X021_002_hanger40
+    400064: X021_002_hanger41
+    400066: X021_002_hanger42
+    400068: X021_002_hanger43
+    400070: X021_002_hanger44
+    400072: X021_002_hanger45
+    400074: X021_002_hanger46
+    400076: X021_002_hanger47
+    400078: X021_002_hanger48
+    400080: X021_002_hanger49
+    400082: X021_002_hanger50
+    400084: X021_002_hanger51
+    400086: X021_002_hanger52
+    400088: X021_002_hanger53
+    400090: X021_002_hanger54
+    400092: X021_002_hanger55
+    400094: X021_002_hanger56
+    400096: X021_002_hanger57
+    400098: X021_002_hanger58
+    400100: X021_002_hanger59
+    400102: X021_002_pants long
+    400104: X021_002_pants long01
+    400106: X021_002_pants long02
+    400108: X021_002_pants long04
+    400110: X021_002_pants long05
+    400112: X021_002_pants long06
+    400114: X021_002_pants long07
+    400116: X021_002_pants long08
+    400118: X021_002_pants long10
+    400120: X021_002_pants long11
+    400122: X021_002_pants long12
+    400124: X021_002_pants long13
+    400126: X021_002_pants long14
+    400128: X021_002_pants long15
+    400130: X021_002_pants long16
+    400132: X021_002_pants long17
+    400134: X021_002_pants med
+    400136: X021_002_pants med01
+    400138: X021_002_pants med02
+    400140: X021_002_pants med03
+    400142: X021_002_pants med04
+    400144: X021_002_pants med05
+    400146: X021_002_pants med06
+    400148: X021_002_pants med07
+    400150: X021_002_pants med08
+    400152: X021_002_pants med09
+    400154: X021_002_pants rack
+    400156: X021_002_pants short
+    400158: X021_002_pants short01
+    400160: X021_002_pants short02
+    400162: X021_002_pants short03
+    400164: X021_002_pants short04
+    400166: X021_002_pants short05
+    400168: X021_002_pants short06
+    400170: X021_002_pants short07
+    400172: X021_002_pants short08
+    400174: X021_002_pants short09
+    400176: X021_002_pants short10
+    400178: X021_002_pants short11
+    400180: X021_002_pants short12
+    400182: X021_002_pants short13
+    400184: X021_002_pants short14
+    400186: X021_002_pants short15
+    400188: X021_002_pants short16
+    400190: X021_002_pants short17
+    400192: X021_002_pants short18
+    400194: X021_002_pants short19
+    2100000: s
+    2100002: pants light brown
+    2100004: button 01
+    2100006: dark wood hanger
+    2100008: hanger ss
+    2100010: pants brownish red
+    2100012: pants dark brown
+    2100014: pants black
+    2100016: pants dark gray
+    2100018: pants gray
+    2300000: Box01
+    2300002: X021_002_hanger13
+    2300004: X021_002_hanger14
+    2300006: X021_002_hanger15
+    2300008: X021_002_hanger16
+    2300010: X021_002_hanger17
+    2300012: X021_002_hanger18
+    2300014: X021_002_hanger19
+    2300016: X021_002_hanger20
+    2300018: X021_002_hanger22
+    2300020: X021_002_hanger23
+    2300022: X021_002_hanger24
+    2300024: X021_002_hanger25
+    2300026: X021_002_hanger26
+    2300028: X021_002_hanger27
+    2300030: X021_002_hanger28
+    2300032: X021_002_hanger29
+    2300034: X021_002_hanger30
+    2300036: X021_002_hanger31
+    2300038: X021_002_hanger32
+    2300040: X021_002_hanger33
+    2300042: X021_002_hanger34
+    2300044: X021_002_hanger35
+    2300046: X021_002_hanger36
+    2300048: X021_002_hanger37
+    2300050: X021_002_hanger38
+    2300052: X021_002_hanger39
+    2300054: X021_002_hanger40
+    2300056: X021_002_hanger41
+    2300058: X021_002_hanger42
+    2300060: X021_002_hanger43
+    2300062: X021_002_hanger44
+    2300064: X021_002_hanger45
+    2300066: X021_002_hanger46
+    2300068: X021_002_hanger47
+    2300070: X021_002_hanger48
+    2300072: X021_002_hanger49
+    2300074: X021_002_hanger50
+    2300076: X021_002_hanger51
+    2300078: X021_002_hanger52
+    2300080: X021_002_hanger53
+    2300082: X021_002_hanger54
+    2300084: X021_002_hanger55
+    2300086: X021_002_hanger56
+    2300088: X021_002_hanger57
+    2300090: X021_002_hanger58
+    2300092: X021_002_hanger59
+    2300094: X021_002_pants long
+    2300096: X021_002_pants long01
+    2300098: X021_002_pants long02
+    2300100: X021_002_pants long04
+    2300102: X021_002_pants long05
+    2300104: X021_002_pants long06
+    2300106: X021_002_pants long07
+    2300108: X021_002_pants long08
+    2300110: X021_002_pants long10
+    2300112: X021_002_pants long11
+    2300114: X021_002_pants long12
+    2300116: X021_002_pants long13
+    2300118: X021_002_pants long14
+    2300120: X021_002_pants long15
+    2300122: X021_002_pants long16
+    2300124: X021_002_pants long17
+    2300126: X021_002_pants med
+    2300128: X021_002_pants med01
+    2300130: X021_002_pants med02
+    2300132: X021_002_pants med03
+    2300134: X021_002_pants med04
+    2300136: X021_002_pants med05
+    2300138: X021_002_pants med06
+    2300140: X021_002_pants med07
+    2300142: X021_002_pants med08
+    2300144: X021_002_pants med09
+    2300146: X021_002_pants rack
+    2300148: X021_002_pants short
+    2300150: X021_002_pants short01
+    2300152: X021_002_pants short02
+    2300154: X021_002_pants short03
+    2300156: X021_002_pants short04
+    2300158: X021_002_pants short05
+    2300160: X021_002_pants short06
+    2300162: X021_002_pants short07
+    2300164: X021_002_pants short08
+    2300166: X021_002_pants short09
+    2300168: X021_002_pants short10
+    2300170: X021_002_pants short11
+    2300172: X021_002_pants short12
+    2300174: X021_002_pants short13
+    2300176: X021_002_pants short14
+    2300178: X021_002_pants short15
+    2300180: X021_002_pants short16
+    2300182: X021_002_pants short17
+    2300184: X021_002_pants short18
+    2300186: X021_002_pants short19
+    3300000: Box01
+    3300002: X021_002_hanger13
+    3300004: X021_002_hanger14
+    3300006: X021_002_hanger15
+    3300008: X021_002_hanger16
+    3300010: X021_002_hanger17
+    3300012: X021_002_hanger18
+    3300014: X021_002_hanger19
+    3300016: X021_002_hanger20
+    3300018: X021_002_hanger22
+    3300020: X021_002_hanger23
+    3300022: X021_002_hanger24
+    3300024: X021_002_hanger25
+    3300026: X021_002_hanger26
+    3300028: X021_002_hanger27
+    3300030: X021_002_hanger28
+    3300032: X021_002_hanger29
+    3300034: X021_002_hanger30
+    3300036: X021_002_hanger31
+    3300038: X021_002_hanger32
+    3300040: X021_002_hanger33
+    3300042: X021_002_hanger34
+    3300044: X021_002_hanger35
+    3300046: X021_002_hanger36
+    3300048: X021_002_hanger37
+    3300050: X021_002_hanger38
+    3300052: X021_002_hanger39
+    3300054: X021_002_hanger40
+    3300056: X021_002_hanger41
+    3300058: X021_002_hanger42
+    3300060: X021_002_hanger43
+    3300062: X021_002_hanger44
+    3300064: X021_002_hanger45
+    3300066: X021_002_hanger46
+    3300068: X021_002_hanger47
+    3300070: X021_002_hanger48
+    3300072: X021_002_hanger49
+    3300074: X021_002_hanger50
+    3300076: X021_002_hanger51
+    3300078: X021_002_hanger52
+    3300080: X021_002_hanger53
+    3300082: X021_002_hanger54
+    3300084: X021_002_hanger55
+    3300086: X021_002_hanger56
+    3300088: X021_002_hanger57
+    3300090: X021_002_hanger58
+    3300092: X021_002_hanger59
+    3300094: X021_002_pants long
+    3300096: X021_002_pants long01
+    3300098: X021_002_pants long02
+    3300100: X021_002_pants long04
+    3300102: X021_002_pants long05
+    3300104: X021_002_pants long06
+    3300106: X021_002_pants long07
+    3300108: X021_002_pants long08
+    3300110: X021_002_pants long10
+    3300112: X021_002_pants long11
+    3300114: X021_002_pants long12
+    3300116: X021_002_pants long13
+    3300118: X021_002_pants long14
+    3300120: X021_002_pants long15
+    3300122: X021_002_pants long16
+    3300124: X021_002_pants long17
+    3300126: X021_002_pants med
+    3300128: X021_002_pants med01
+    3300130: X021_002_pants med02
+    3300132: X021_002_pants med03
+    3300134: X021_002_pants med04
+    3300136: X021_002_pants med05
+    3300138: X021_002_pants med06
+    3300140: X021_002_pants med07
+    3300142: X021_002_pants med08
+    3300144: X021_002_pants med09
+    3300146: X021_002_pants rack
+    3300148: X021_002_pants short
+    3300150: X021_002_pants short01
+    3300152: X021_002_pants short02
+    3300154: X021_002_pants short03
+    3300156: X021_002_pants short04
+    3300158: X021_002_pants short05
+    3300160: X021_002_pants short06
+    3300162: X021_002_pants short07
+    3300164: X021_002_pants short08
+    3300166: X021_002_pants short09
+    3300168: X021_002_pants short10
+    3300170: X021_002_pants short11
+    3300172: X021_002_pants short12
+    3300174: X021_002_pants short13
+    3300176: X021_002_pants short14
+    3300178: X021_002_pants short15
+    3300180: X021_002_pants short16
+    3300182: X021_002_pants short17
+    3300184: X021_002_pants short18
+    3300186: X021_002_pants short19
+    4300000: Box01
+    4300002: X021_002_pants med
+    4300004: X021_002_hanger13
+    4300006: X021_002_pants long
+    4300008: X021_002_hanger14
+    4300010: X021_002_pants short
+    4300012: X021_002_hanger15
+    4300014: X021_002_pants rack
+    4300016: X021_002_hanger16
+    4300018: X021_002_pants med01
+    4300020: X021_002_hanger17
+    4300022: X021_002_pants short01
+    4300024: X021_002_hanger18
+    4300026: X021_002_pants long01
+    4300028: X021_002_hanger19
+    4300030: X021_002_pants long02
+    4300032: X021_002_pants med02
+    4300034: X021_002_hanger20
+    4300036: X021_002_pants short02
+    4300038: X021_002_hanger22
+    4300040: X021_002_hanger23
+    4300042: X021_002_pants med03
+    4300044: X021_002_hanger24
+    4300046: X021_002_pants short03
+    4300048: X021_002_hanger25
+    4300050: X021_002_pants long04
+    4300052: X021_002_hanger26
+    4300054: X021_002_pants long05
+    4300056: X021_002_hanger27
+    4300058: X021_002_pants short04
+    4300060: X021_002_hanger28
+    4300062: X021_002_pants short05
+    4300064: X021_002_hanger29
+    4300066: X021_002_pants long06
+    4300068: X021_002_pants med04
+    4300070: X021_002_hanger30
+    4300072: X021_002_pants short06
+    4300074: X021_002_hanger31
+    4300076: X021_002_hanger32
+    4300078: X021_002_pants short07
+    4300080: X021_002_hanger33
+    4300082: X021_002_pants short08
+    4300084: X021_002_pants short09
+    4300086: X021_002_pants long07
+    4300088: X021_002_pants long08
+    4300090: X021_002_hanger34
+    4300092: X021_002_hanger35
+    4300094: X021_002_hanger36
+    4300096: X021_002_pants med05
+    4300098: X021_002_hanger37
+    4300100: X021_002_pants long10
+    4300102: X021_002_hanger38
+    4300104: X021_002_pants short10
+    4300106: X021_002_hanger39
+    4300108: X021_002_hanger40
+    4300110: X021_002_hanger41
+    4300112: X021_002_pants med06
+    4300114: X021_002_hanger42
+    4300116: X021_002_pants short11
+    4300118: X021_002_hanger43
+    4300120: X021_002_pants long11
+    4300122: X021_002_hanger44
+    4300124: X021_002_pants long12
+    4300126: X021_002_pants med07
+    4300128: X021_002_hanger45
+    4300130: X021_002_pants short12
+    4300132: X021_002_hanger46
+    4300134: X021_002_hanger47
+    4300136: X021_002_pants med08
+    4300138: X021_002_hanger48
+    4300140: X021_002_pants short13
+    4300142: X021_002_hanger49
+    4300144: X021_002_pants long13
+    4300146: X021_002_hanger50
+    4300148: X021_002_pants long14
+    4300150: X021_002_hanger51
+    4300152: X021_002_pants short14
+    4300154: X021_002_hanger52
+    4300156: X021_002_pants short15
+    4300158: X021_002_hanger53
+    4300160: X021_002_pants long15
+    4300162: X021_002_pants med09
+    4300164: X021_002_hanger54
+    4300166: X021_002_pants short16
+    4300168: X021_002_hanger55
+    4300170: X021_002_hanger56
+    4300172: X021_002_pants short17
+    4300174: X021_002_hanger57
+    4300176: X021_002_pants short18
+    4300178: X021_002_pants short19
+    4300180: X021_002_pants long16
+    4300182: X021_002_pants long17
+    4300184: X021_002_hanger58
+    4300186: X021_002_hanger59
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

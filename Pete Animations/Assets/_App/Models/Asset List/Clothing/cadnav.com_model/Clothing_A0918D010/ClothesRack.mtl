@@ -1,0 +1,142 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 17.03.2018 12:28:21
+
+newmtl wire_115115115
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.4510 0.4510 0.4510
+	Kd 0.4510 0.4510 0.4510
+	Ks 0.3500 0.3500 0.3500
+
+newmtl caster_wheel_2
+	Ns 16.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1294 0.1294 0.1294
+	Kd 0.1294 0.1294 0.1294
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 01___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Clothing_A0918D010\20110818113341140662.jpg
+	map_Kd D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Clothing_A0918D010\20110818113341140662.jpg
+	map_bump Map__6_Mask.tga
+
+newmtl back
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Clothing_A0918D010\20110818113341140662.jpg
+	map_Kd D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Clothing_A0918D010\20110818113341140662.jpg
+	map_bump Map__6_Mask.tga
+
+newmtl stitches
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2314 0.2784 0.2353
+	Kd 0.2314 0.2784 0.2353
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_d Map__1_Gradient_Ramp.tga
+
+newmtl tag
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Clothing_A0918D010\20110818113341140779.jpg
+	map_Kd D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Clothing_A0918D010\20110818113341140779.jpg
+
+newmtl shirt___white
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shirt___blue
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2196 0.3059 0.4510
+	Kd 0.2196 0.3059 0.4510
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shirt___yellow
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8667 0.8000 0.2275
+	Kd 0.8667 0.8000 0.2275
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shirt___green
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1686 0.6471 0.2157
+	Kd 0.1686 0.6471 0.2157
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 02___Default
+	Ns 36.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1216 0.1216 0.1216
+	Kd 0.1216 0.1216 0.1216
+	Ks 0.2430 0.2430 0.2430
+	Ke 0.0000 0.0000 0.0000
+	map_refl Map__5_VRayMap.tga

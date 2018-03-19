@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 453efaa054fbaa441a51f3be455afa42
+timeCreated: 1521283170
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Direct01
+    100004: Direct01.Target
+    100006: Plane01
+    100008: X011_005_hanger00
+    100010: X011_005_hanger01
+    100012: X011_005_hanger02
+    100014: X011_005_hanger03
+    100016: X011_005_hanger04
+    100018: X011_005_hanger05
+    100020: X011_005_hanger06
+    100022: X011_005_hanger07
+    100024: X011_005_hanger08
+    100026: X011_005_hanger09
+    100028: X011_005_hanger10
+    100030: X011_005_hanger11
+    100032: X011_005_Line27
+    100034: X011_005_shirt b00
+    100036: X011_005_shirt b01
+    100038: X011_005_shirt b02
+    100040: X011_005_shirt C - 01
+    100042: X011_005_shirt C - 02
+    100044: X011_005_shirt C - 03
+    100046: X011_005_shirt D - 01
+    100048: X011_005_shirt D - 02
+    100050: X011_005_shirt rack
+    100052: X011_005_shirt rocker01
+    100054: X011_005_shirt rocker02
+    100056: X011_005_shirt rocker03
+    100058: X011_005_shirt rocker04
+    400000: //RootNode
+    400002: Direct01
+    400004: Direct01.Target
+    400006: Plane01
+    400008: X011_005_hanger00
+    400010: X011_005_hanger01
+    400012: X011_005_hanger02
+    400014: X011_005_hanger03
+    400016: X011_005_hanger04
+    400018: X011_005_hanger05
+    400020: X011_005_hanger06
+    400022: X011_005_hanger07
+    400024: X011_005_hanger08
+    400026: X011_005_hanger09
+    400028: X011_005_hanger10
+    400030: X011_005_hanger11
+    400032: X011_005_Line27
+    400034: X011_005_shirt b00
+    400036: X011_005_shirt b01
+    400038: X011_005_shirt b02
+    400040: X011_005_shirt C - 01
+    400042: X011_005_shirt C - 02
+    400044: X011_005_shirt C - 03
+    400046: X011_005_shirt D - 01
+    400048: X011_005_shirt D - 02
+    400050: X011_005_shirt rack
+    400052: X011_005_shirt rocker01
+    400054: X011_005_shirt rocker02
+    400056: X011_005_shirt rocker03
+    400058: X011_005_shirt rocker04
+    2100000: 01 - Default
+    2100002: Ductwork reflective
+    2100004: caster wheel 2
+    2100006: back
+    2100008: stitches
+    2100010: tag
+    2100012: shirt - white
+    2100014: shirt - blue
+    2100016: shirt - yellow
+    2100018: shirt - green
+    2100020: 02 - Default
+    2100022: 'Material #352'
+    2300000: Plane01
+    2300002: X011_005_hanger00
+    2300004: X011_005_hanger01
+    2300006: X011_005_hanger02
+    2300008: X011_005_hanger03
+    2300010: X011_005_hanger04
+    2300012: X011_005_hanger05
+    2300014: X011_005_hanger06
+    2300016: X011_005_hanger07
+    2300018: X011_005_hanger08
+    2300020: X011_005_hanger09
+    2300022: X011_005_hanger10
+    2300024: X011_005_hanger11
+    2300026: X011_005_Line27
+    2300028: X011_005_shirt b00
+    2300030: X011_005_shirt b01
+    2300032: X011_005_shirt b02
+    2300034: X011_005_shirt C - 01
+    2300036: X011_005_shirt C - 02
+    2300038: X011_005_shirt C - 03
+    2300040: X011_005_shirt D - 01
+    2300042: X011_005_shirt D - 02
+    2300044: X011_005_shirt rocker01
+    2300046: X011_005_shirt rocker02
+    2300048: X011_005_shirt rocker03
+    2300050: X011_005_shirt rocker04
+    3300000: Plane01
+    3300002: X011_005_hanger00
+    3300004: X011_005_hanger01
+    3300006: X011_005_hanger02
+    3300008: X011_005_hanger03
+    3300010: X011_005_hanger04
+    3300012: X011_005_hanger05
+    3300014: X011_005_hanger06
+    3300016: X011_005_hanger07
+    3300018: X011_005_hanger08
+    3300020: X011_005_hanger09
+    3300022: X011_005_hanger10
+    3300024: X011_005_hanger11
+    3300026: X011_005_Line27
+    3300028: X011_005_shirt b00
+    3300030: X011_005_shirt b01
+    3300032: X011_005_shirt b02
+    3300034: X011_005_shirt C - 01
+    3300036: X011_005_shirt C - 02
+    3300038: X011_005_shirt C - 03
+    3300040: X011_005_shirt D - 01
+    3300042: X011_005_shirt D - 02
+    3300044: X011_005_shirt rocker01
+    3300046: X011_005_shirt rocker02
+    3300048: X011_005_shirt rocker03
+    3300050: X011_005_shirt rocker04
+    4300000: Plane01
+    4300002: X011_005_Line27
+    4300004: X011_005_shirt b00
+    4300006: X011_005_shirt b01
+    4300008: X011_005_shirt rocker01
+    4300010: X011_005_shirt C - 01
+    4300012: X011_005_shirt D - 01
+    4300014: X011_005_shirt C - 02
+    4300016: X011_005_shirt D - 02
+    4300018: X011_005_shirt rocker02
+    4300020: X011_005_shirt b02
+    4300022: X011_005_shirt rocker03
+    4300024: X011_005_shirt C - 03
+    4300026: X011_005_shirt rocker04
+    4300028: X011_005_hanger02
+    4300030: X011_005_hanger01
+    4300032: X011_005_hanger00
+    4300034: X011_005_hanger03
+    4300036: X011_005_hanger11
+    4300038: X011_005_hanger04
+    4300040: X011_005_hanger05
+    4300042: X011_005_hanger06
+    4300044: X011_005_hanger07
+    4300046: X011_005_hanger08
+    4300048: X011_005_hanger09
+    4300050: X011_005_hanger10
+    9500000: //RootNode
+    10800000: Direct01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

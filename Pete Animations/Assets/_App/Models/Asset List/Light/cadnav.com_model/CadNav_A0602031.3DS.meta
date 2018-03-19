@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 3097ce59ad16a084ab0f53f82a7eb149
+timeCreated: 1521283140
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera01
+    100004: Camera01.target
+    100006: Camera010
+    100008: Camera010.target
+    100010: Circle01
+    100012: Circle010
+    100014: Circle011
+    100016: Circle012
+    100018: Circle03
+    100020: Circle04
+    100022: Circle040
+    100024: Circle05
+    100026: Circle06
+    100028: Line01
+    100030: Line010
+    100032: Line02
+    100034: Line020
+    100036: Line04
+    100038: Line040
+    100040: Line06
+    100042: Line060
+    100044: Line08
+    100046: Line14
+    100048: NGon01
+    100050: NGon010
+    100052: NGon011
+    100054: NGon012
+    100056: NGon013
+    100058: NGon03
+    100060: NGon04
+    100062: NGon05
+    100064: Sphere01
+    100066: Sphere02
+    400000: //RootNode
+    400002: Camera01
+    400004: Camera01.target
+    400006: Camera010
+    400008: Camera010.target
+    400010: Circle01
+    400012: Circle010
+    400014: Circle011
+    400016: Circle012
+    400018: Circle03
+    400020: Circle04
+    400022: Circle040
+    400024: Circle05
+    400026: Circle06
+    400028: Line01
+    400030: Line010
+    400032: Line02
+    400034: Line020
+    400036: Line04
+    400038: Line040
+    400040: Line06
+    400042: Line060
+    400044: Line08
+    400046: Line14
+    400048: NGon01
+    400050: NGon010
+    400052: NGon011
+    400054: NGon012
+    400056: NGon013
+    400058: NGon03
+    400060: NGon04
+    400062: NGon05
+    400064: Sphere01
+    400066: Sphere02
+    2100000: 'Material #2'
+    2100002: Material rrrr
+    2100004: 'Material #21'
+    2100006: 'Material #11'
+    2300000: Circle01
+    2300002: Circle010
+    2300004: Circle011
+    2300006: Circle012
+    2300008: Circle03
+    2300010: Circle04
+    2300012: Circle040
+    2300014: Circle05
+    2300016: Circle06
+    2300018: Line01
+    2300020: Line010
+    2300022: Line02
+    2300024: Line020
+    2300026: Line04
+    2300028: Line040
+    2300030: Line06
+    2300032: Line060
+    2300034: Line08
+    2300036: Line14
+    2300038: NGon01
+    2300040: NGon010
+    2300042: NGon011
+    2300044: NGon012
+    2300046: NGon013
+    2300048: NGon03
+    2300050: NGon04
+    2300052: NGon05
+    2300054: Sphere01
+    2300056: Sphere02
+    3300000: Circle01
+    3300002: Circle010
+    3300004: Circle011
+    3300006: Circle012
+    3300008: Circle03
+    3300010: Circle04
+    3300012: Circle040
+    3300014: Circle05
+    3300016: Circle06
+    3300018: Line01
+    3300020: Line010
+    3300022: Line02
+    3300024: Line020
+    3300026: Line04
+    3300028: Line040
+    3300030: Line06
+    3300032: Line060
+    3300034: Line08
+    3300036: Line14
+    3300038: NGon01
+    3300040: NGon010
+    3300042: NGon011
+    3300044: NGon012
+    3300046: NGon013
+    3300048: NGon03
+    3300050: NGon04
+    3300052: NGon05
+    3300054: Sphere01
+    3300056: Sphere02
+    4300000: Circle01
+    4300002: Circle010
+    4300004: Circle011
+    4300006: Circle04
+    4300008: Circle012
+    4300010: Line04
+    4300012: Circle03
+    4300014: Circle040
+    4300016: Circle05
+    4300018: Line040
+    4300020: Line14
+    4300022: Circle06
+    4300024: NGon01
+    4300026: NGon010
+    4300028: NGon011
+    4300030: Line02
+    4300032: Line06
+    4300034: NGon012
+    4300036: Line020
+    4300038: Line060
+    4300040: Line01
+    4300042: NGon013
+    4300044: Line08
+    4300046: Sphere01
+    4300048: Line010
+    4300050: Sphere02
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

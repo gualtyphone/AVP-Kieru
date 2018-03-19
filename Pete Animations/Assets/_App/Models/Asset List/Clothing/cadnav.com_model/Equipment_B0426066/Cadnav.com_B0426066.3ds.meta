@@ -1,0 +1,570 @@
+fileFormatVersion: 2
+guid: 9d2b917910a84c14981a97975e3b1ac6
+timeCreated: 1521283302
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: hanger13
+    100004: hanger14
+    100006: hanger15
+    100008: hanger16
+    100010: hanger17
+    100012: hanger18
+    100014: hanger19
+    100016: hanger20
+    100018: hanger22
+    100020: hanger23
+    100022: hanger24
+    100024: hanger25
+    100026: hanger26
+    100028: hanger27
+    100030: hanger28
+    100032: hanger29
+    100034: hanger30
+    100036: hanger31
+    100038: hanger32
+    100040: hanger33
+    100042: hanger34
+    100044: hanger35
+    100046: hanger36
+    100048: hanger37
+    100050: hanger38
+    100052: hanger39
+    100054: hanger40
+    100056: hanger41
+    100058: hanger42
+    100060: hanger43
+    100062: hanger44
+    100064: hanger45
+    100066: hanger46
+    100068: hanger47
+    100070: hanger48
+    100072: hanger49
+    100074: hanger50
+    100076: hanger51
+    100078: hanger52
+    100080: hanger53
+    100082: hanger54
+    100084: hanger55
+    100086: hanger56
+    100088: hanger57
+    100090: hanger58
+    100092: hanger59
+    100094: pants lo10
+    100096: pants lo11
+    100098: pants lo12
+    100100: pants lo13
+    100102: pants lo14
+    100104: pants lon0
+    100106: pants lon1
+    100108: pants lon2
+    100110: pants lon3
+    100112: pants lon4
+    100114: pants lon5
+    100116: pants lon6
+    100118: pants lon7
+    100120: pants lon8
+    100122: pants lon9
+    100124: pants long
+    100126: pants med
+    100128: pants med0
+    100130: pants med1
+    100132: pants med2
+    100134: pants med3
+    100136: pants med4
+    100138: pants med5
+    100140: pants med6
+    100142: pants med7
+    100144: pants med8
+    100146: pants rack
+    100148: pants sh10
+    100150: pants sh11
+    100152: pants sh12
+    100154: pants sh13
+    100156: pants sh14
+    100158: pants sh15
+    100160: pants sh16
+    100162: pants sh17
+    100164: pants sh18
+    100166: pants sho0
+    100168: pants sho1
+    100170: pants sho2
+    100172: pants sho3
+    100174: pants sho4
+    100176: pants sho5
+    100178: pants sho6
+    100180: pants sho7
+    100182: pants sho8
+    100184: pants sho9
+    100186: pants shor
+    400000: //RootNode
+    400002: hanger13
+    400004: hanger14
+    400006: hanger15
+    400008: hanger16
+    400010: hanger17
+    400012: hanger18
+    400014: hanger19
+    400016: hanger20
+    400018: hanger22
+    400020: hanger23
+    400022: hanger24
+    400024: hanger25
+    400026: hanger26
+    400028: hanger27
+    400030: hanger28
+    400032: hanger29
+    400034: hanger30
+    400036: hanger31
+    400038: hanger32
+    400040: hanger33
+    400042: hanger34
+    400044: hanger35
+    400046: hanger36
+    400048: hanger37
+    400050: hanger38
+    400052: hanger39
+    400054: hanger40
+    400056: hanger41
+    400058: hanger42
+    400060: hanger43
+    400062: hanger44
+    400064: hanger45
+    400066: hanger46
+    400068: hanger47
+    400070: hanger48
+    400072: hanger49
+    400074: hanger50
+    400076: hanger51
+    400078: hanger52
+    400080: hanger53
+    400082: hanger54
+    400084: hanger55
+    400086: hanger56
+    400088: hanger57
+    400090: hanger58
+    400092: hanger59
+    400094: pants lo10
+    400096: pants lo11
+    400098: pants lo12
+    400100: pants lo13
+    400102: pants lo14
+    400104: pants lon0
+    400106: pants lon1
+    400108: pants lon2
+    400110: pants lon3
+    400112: pants lon4
+    400114: pants lon5
+    400116: pants lon6
+    400118: pants lon7
+    400120: pants lon8
+    400122: pants lon9
+    400124: pants long
+    400126: pants med
+    400128: pants med0
+    400130: pants med1
+    400132: pants med2
+    400134: pants med3
+    400136: pants med4
+    400138: pants med5
+    400140: pants med6
+    400142: pants med7
+    400144: pants med8
+    400146: pants rack
+    400148: pants sh10
+    400150: pants sh11
+    400152: pants sh12
+    400154: pants sh13
+    400156: pants sh14
+    400158: pants sh15
+    400160: pants sh16
+    400162: pants sh17
+    400164: pants sh18
+    400166: pants sho0
+    400168: pants sho1
+    400170: pants sho2
+    400172: pants sho3
+    400174: pants sho4
+    400176: pants sho5
+    400178: pants sho6
+    400180: pants sho7
+    400182: pants sho8
+    400184: pants sho9
+    400186: pants shor
+    2100000: dark wood hanger
+    2100002: hanger ss
+    2100004: pants gray
+    2100006: button 01
+    2100008: pants dark gray
+    2100010: button 011
+    2100012: pants black
+    2100014: button 012
+    2100016: pants dark brown
+    2100018: button 013
+    2100020: pants brownish r
+    2100022: button 014
+    2100024: pants light brow
+    2100026: button 015
+    2100028: dark wood han1
+    2100030: hanger ss1
+    2300000: hanger13
+    2300002: hanger14
+    2300004: hanger15
+    2300006: hanger16
+    2300008: hanger17
+    2300010: hanger18
+    2300012: hanger19
+    2300014: hanger20
+    2300016: hanger22
+    2300018: hanger23
+    2300020: hanger24
+    2300022: hanger25
+    2300024: hanger26
+    2300026: hanger27
+    2300028: hanger28
+    2300030: hanger29
+    2300032: hanger30
+    2300034: hanger31
+    2300036: hanger32
+    2300038: hanger33
+    2300040: hanger34
+    2300042: hanger35
+    2300044: hanger36
+    2300046: hanger37
+    2300048: hanger38
+    2300050: hanger39
+    2300052: hanger40
+    2300054: hanger41
+    2300056: hanger42
+    2300058: hanger43
+    2300060: hanger44
+    2300062: hanger45
+    2300064: hanger46
+    2300066: hanger47
+    2300068: hanger48
+    2300070: hanger49
+    2300072: hanger50
+    2300074: hanger51
+    2300076: hanger52
+    2300078: hanger53
+    2300080: hanger54
+    2300082: hanger55
+    2300084: hanger56
+    2300086: hanger57
+    2300088: hanger58
+    2300090: hanger59
+    2300092: pants lo10
+    2300094: pants lo11
+    2300096: pants lo12
+    2300098: pants lo13
+    2300100: pants lo14
+    2300102: pants lon0
+    2300104: pants lon1
+    2300106: pants lon2
+    2300108: pants lon3
+    2300110: pants lon4
+    2300112: pants lon5
+    2300114: pants lon6
+    2300116: pants lon7
+    2300118: pants lon8
+    2300120: pants lon9
+    2300122: pants long
+    2300124: pants med
+    2300126: pants med0
+    2300128: pants med1
+    2300130: pants med2
+    2300132: pants med3
+    2300134: pants med4
+    2300136: pants med5
+    2300138: pants med6
+    2300140: pants med7
+    2300142: pants med8
+    2300144: pants rack
+    2300146: pants sh10
+    2300148: pants sh11
+    2300150: pants sh12
+    2300152: pants sh13
+    2300154: pants sh14
+    2300156: pants sh15
+    2300158: pants sh16
+    2300160: pants sh17
+    2300162: pants sh18
+    2300164: pants sho0
+    2300166: pants sho1
+    2300168: pants sho2
+    2300170: pants sho3
+    2300172: pants sho4
+    2300174: pants sho5
+    2300176: pants sho6
+    2300178: pants sho7
+    2300180: pants sho8
+    2300182: pants sho9
+    2300184: pants shor
+    3300000: hanger13
+    3300002: hanger14
+    3300004: hanger15
+    3300006: hanger16
+    3300008: hanger17
+    3300010: hanger18
+    3300012: hanger19
+    3300014: hanger20
+    3300016: hanger22
+    3300018: hanger23
+    3300020: hanger24
+    3300022: hanger25
+    3300024: hanger26
+    3300026: hanger27
+    3300028: hanger28
+    3300030: hanger29
+    3300032: hanger30
+    3300034: hanger31
+    3300036: hanger32
+    3300038: hanger33
+    3300040: hanger34
+    3300042: hanger35
+    3300044: hanger36
+    3300046: hanger37
+    3300048: hanger38
+    3300050: hanger39
+    3300052: hanger40
+    3300054: hanger41
+    3300056: hanger42
+    3300058: hanger43
+    3300060: hanger44
+    3300062: hanger45
+    3300064: hanger46
+    3300066: hanger47
+    3300068: hanger48
+    3300070: hanger49
+    3300072: hanger50
+    3300074: hanger51
+    3300076: hanger52
+    3300078: hanger53
+    3300080: hanger54
+    3300082: hanger55
+    3300084: hanger56
+    3300086: hanger57
+    3300088: hanger58
+    3300090: hanger59
+    3300092: pants lo10
+    3300094: pants lo11
+    3300096: pants lo12
+    3300098: pants lo13
+    3300100: pants lo14
+    3300102: pants lon0
+    3300104: pants lon1
+    3300106: pants lon2
+    3300108: pants lon3
+    3300110: pants lon4
+    3300112: pants lon5
+    3300114: pants lon6
+    3300116: pants lon7
+    3300118: pants lon8
+    3300120: pants lon9
+    3300122: pants long
+    3300124: pants med
+    3300126: pants med0
+    3300128: pants med1
+    3300130: pants med2
+    3300132: pants med3
+    3300134: pants med4
+    3300136: pants med5
+    3300138: pants med6
+    3300140: pants med7
+    3300142: pants med8
+    3300144: pants rack
+    3300146: pants sh10
+    3300148: pants sh11
+    3300150: pants sh12
+    3300152: pants sh13
+    3300154: pants sh14
+    3300156: pants sh15
+    3300158: pants sh16
+    3300160: pants sh17
+    3300162: pants sh18
+    3300164: pants sho0
+    3300166: pants sho1
+    3300168: pants sho2
+    3300170: pants sho3
+    3300172: pants sho4
+    3300174: pants sho5
+    3300176: pants sho6
+    3300178: pants sho7
+    3300180: pants sho8
+    3300182: pants sho9
+    3300184: pants shor
+    4300000: hanger59
+    4300002: hanger58
+    4300004: pants long
+    4300006: pants lon0
+    4300008: pants shor
+    4300010: pants sho0
+    4300012: hanger57
+    4300014: pants sho1
+    4300016: hanger56
+    4300018: hanger55
+    4300020: pants sho2
+    4300022: hanger54
+    4300024: pants med0
+    4300026: pants lon1
+    4300028: hanger53
+    4300030: pants sho3
+    4300032: hanger52
+    4300034: pants sho4
+    4300036: hanger51
+    4300038: pants lon2
+    4300040: hanger50
+    4300042: pants lon3
+    4300044: hanger49
+    4300046: pants sho5
+    4300048: hanger48
+    4300050: pants med1
+    4300052: hanger47
+    4300054: hanger46
+    4300056: pants sho6
+    4300058: hanger45
+    4300060: pants med2
+    4300062: pants lon4
+    4300064: hanger44
+    4300066: pants lon5
+    4300068: hanger43
+    4300070: pants sho7
+    4300072: hanger42
+    4300074: pants med3
+    4300076: hanger41
+    4300078: hanger40
+    4300080: hanger39
+    4300082: pants sho8
+    4300084: hanger38
+    4300086: pants lon6
+    4300088: hanger37
+    4300090: pants med4
+    4300092: hanger36
+    4300094: hanger35
+    4300096: hanger34
+    4300098: pants lon7
+    4300100: pants lon8
+    4300102: pants sho9
+    4300104: pants sh10
+    4300106: hanger33
+    4300108: pants sh11
+    4300110: hanger32
+    4300112: hanger31
+    4300114: pants sh12
+    4300116: hanger30
+    4300118: pants med5
+    4300120: pants lon9
+    4300122: hanger29
+    4300124: pants sh13
+    4300126: hanger28
+    4300128: pants sh14
+    4300130: hanger27
+    4300132: pants lo10
+    4300134: hanger26
+    4300136: pants lo11
+    4300138: hanger25
+    4300140: pants sh15
+    4300142: hanger24
+    4300144: pants med6
+    4300146: hanger23
+    4300148: hanger22
+    4300150: pants sh16
+    4300152: hanger20
+    4300154: pants med7
+    4300156: pants lo12
+    4300158: hanger19
+    4300160: pants lo13
+    4300162: hanger18
+    4300164: pants sh17
+    4300166: hanger17
+    4300168: pants med8
+    4300170: hanger16
+    4300172: pants rack
+    4300174: hanger15
+    4300176: pants sh18
+    4300178: hanger14
+    4300180: pants lo14
+    4300182: hanger13
+    4300184: pants med
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

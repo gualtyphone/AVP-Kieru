@@ -74,5 +74,17 @@ https://www.cgtrader.com/free-3d-models/interior/office/tower-drinks-e1aa14bec07
 tables = 
 http://www.cadnav.com/3d-models/model-8845.html
 http://www.cadnav.com/3d-models/model-11613.html
+http://www.cadnav.com/3d-models/model-9690.html
+http://www.cadnav.com/3d-models/model-13824.html
 
+chairs = 
+http://www.cadnav.com/3d-models/model-9842.html
 
+tvs = 
+http://www.cadnav.com/3d-models/model-20584.html
+http://www.cadnav.com/3d-models/model-20105.html
+http://www.cadnav.com/3d-models/model-20098.html
+http://www.cadnav.com/3d-models/model-20090.html
+http://www.cadnav.com/3d-models/model-20114.html
+http://www.cadnav.com/3d-models/model-20113.html
+http://www.cadnav.com/3d-models/model-20116.html

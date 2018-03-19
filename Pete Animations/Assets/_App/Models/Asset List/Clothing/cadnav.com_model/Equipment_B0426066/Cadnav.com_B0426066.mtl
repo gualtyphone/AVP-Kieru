@@ -1,0 +1,136 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 17.03.2018 12:56:22
+
+newmtl pants_light_brown
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2431 0.2431 0.2431
+	Kd 0.2431 0.2431 0.2431
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\pants_lt_brown.jpg
+	map_Kd D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\pants_lt_brown.jpg
+	map_refl Map__1077_Falloff.tga
+
+newmtl button_01
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.5400 0.5400 0.5400
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\bttn_05.jpg
+	map_Kd D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\bttn_05.jpg
+
+newmtl dark_wood_hanger
+	Ns 35.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.4500 0.4500 0.4500
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\hanger_wood.jpg
+	map_Kd D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\hanger_wood.jpg
+	map_bump D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\hanger_wood.jpg
+	bump D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\hanger_wood.jpg
+	map_refl Map__9_VRayMap.tga
+
+newmtl hanger_ss
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1647 0.1647 0.1647
+	Kd 0.1647 0.1647 0.1647
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_refl Map__3_VRayMap.tga
+
+newmtl pants_brownish_red
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2431 0.2431 0.2431
+	Kd 0.2431 0.2431 0.2431
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\pants_lt_brownish_red.jpg
+	map_Kd D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\pants_lt_brownish_red.jpg
+	map_refl Map__1077_Falloff.tga
+
+newmtl pants_dark_brown
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2431 0.2431 0.2431
+	Kd 0.2431 0.2431 0.2431
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\pants_brown.jpg
+	map_Kd D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\pants_brown.jpg
+	map_refl Map__1077_Falloff.tga
+
+newmtl pants_black
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2431 0.2431 0.2431
+	Kd 0.2431 0.2431 0.2431
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\pants_black.jpg
+	map_Kd D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\pants_black.jpg
+	map_refl Map__1077_Falloff.tga
+
+newmtl pants_dark_gray
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2431 0.2431 0.2431
+	Kd 0.2431 0.2431 0.2431
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\pants_dark_gray.jpg
+	map_Kd D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\pants_dark_gray.jpg
+	map_refl Map__1077_Falloff.tga
+
+newmtl pants_gray
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2431 0.2431 0.2431
+	Kd 0.2431 0.2431 0.2431
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\pants_gray.jpg
+	map_Kd D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Equipment_B0426066\pants_gray.jpg
+	map_refl Map__1077_Falloff.tga

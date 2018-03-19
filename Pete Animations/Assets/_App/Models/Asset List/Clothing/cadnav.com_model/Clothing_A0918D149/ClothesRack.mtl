@@ -1,0 +1,126 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 17.03.2018 12:20:23
+
+newmtl Arch_44__042_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__12_Falloff.tga
+	map_Kd Map__12_Falloff.tga
+
+newmtl Arch_44__042_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__20_Falloff.tga
+	map_Kd Map__20_Falloff.tga
+
+newmtl Arch_44__042_3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__24_Falloff.tga
+	map_Kd Map__24_Falloff.tga
+
+newmtl ??_jia
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.0118 0.0118 0.0118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Clothing_A0918D149\20140114031313812917.jpg
+	bump D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Clothing_A0918D149\20140114031313812917.jpg
+
+newmtl Arch_44__042_5
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__16_Falloff.tga
+	map_Kd Map__16_Falloff.tga
+
+newmtl Arch_44__042_6
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__4_Falloff.tga
+	map_Kd Map__4_Falloff.tga
+
+newmtl Arch_44__042_7
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__4_Falloff.tga
+	map_Kd Map__4_Falloff.tga
+
+newmtl Arch_44__042_8
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Arch_44__042_9
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Clothing_A0918D149\20140114031313812443.jpg
+	map_Kd D:\Desktop\Git\AVP-Kieru\Pete Animations\Assets\_App\Models\Asset List\Clothing\cadnav.com_model\Clothing_A0918D149\20140114031313812443.jpg

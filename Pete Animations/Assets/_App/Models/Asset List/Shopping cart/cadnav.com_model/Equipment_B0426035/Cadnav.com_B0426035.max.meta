@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 4ded1cc2d702bd5468e2b930a9ab0a16
+timeCreated: 1521283188
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Box02
+    100004: Box04
+    100006: Box05
+    100008: //RootNode
+    100010: caps
+    100012: cart
+    100014: Cylinder01
+    100016: Cylinder02
+    100018: Cylinder03
+    100020: Cylinder04
+    100022: Gate
+    100024: Handle
+    100026: lBumpers
+    100028: Line01
+    100030: Line02
+    100032: Line05
+    100034: Line06
+    100036: Loft01
+    100038: Loft02
+    100040: Loft04
+    100042: Loft05
+    100044: seat
+    100046: seatBack
+    100048: seatFrame
+    100050: Sphere01
+    100052: Sphere02
+    100054: Sphere03
+    100056: Sphere04
+    100058: Sphere05
+    100060: Sphere06
+    100062: Sphere07
+    100064: Sphere08
+    100066: uBumpers
+    400000: Box01
+    400002: Box02
+    400004: Box04
+    400006: Box05
+    400008: //RootNode
+    400010: caps
+    400012: cart
+    400014: Cylinder01
+    400016: Cylinder02
+    400018: Cylinder03
+    400020: Cylinder04
+    400022: Gate
+    400024: Handle
+    400026: lBumpers
+    400028: Line01
+    400030: Line02
+    400032: Line05
+    400034: Line06
+    400036: Loft01
+    400038: Loft02
+    400040: Loft04
+    400042: Loft05
+    400044: seat
+    400046: seatBack
+    400048: seatFrame
+    400050: Sphere01
+    400052: Sphere02
+    400054: Sphere03
+    400056: Sphere04
+    400058: Sphere05
+    400060: Sphere06
+    400062: Sphere07
+    400064: Sphere08
+    400066: uBumpers
+    2100000: 'Material #15'
+    2100002: Metal_Chrome
+    2100004: 'Material #1'
+    2100006: 'Material #22'
+    2300000: Box01
+    2300002: Box02
+    2300004: Box04
+    2300006: Box05
+    2300008: caps
+    2300010: cart
+    2300012: Cylinder01
+    2300014: Cylinder02
+    2300016: Cylinder03
+    2300018: Cylinder04
+    2300020: Gate
+    2300022: Handle
+    2300024: lBumpers
+    2300026: Line01
+    2300028: Line02
+    2300030: Line05
+    2300032: Line06
+    2300034: Loft01
+    2300036: Loft02
+    2300038: Loft04
+    2300040: Loft05
+    2300042: seat
+    2300044: seatBack
+    2300046: seatFrame
+    2300048: Sphere01
+    2300050: Sphere02
+    2300052: Sphere03
+    2300054: Sphere04
+    2300056: Sphere05
+    2300058: Sphere06
+    2300060: Sphere07
+    2300062: Sphere08
+    2300064: uBumpers
+    3300000: Box01
+    3300002: Box02
+    3300004: Box04
+    3300006: Box05
+    3300008: caps
+    3300010: cart
+    3300012: Cylinder01
+    3300014: Cylinder02
+    3300016: Cylinder03
+    3300018: Cylinder04
+    3300020: Gate
+    3300022: Handle
+    3300024: lBumpers
+    3300026: Line01
+    3300028: Line02
+    3300030: Line05
+    3300032: Line06
+    3300034: Loft01
+    3300036: Loft02
+    3300038: Loft04
+    3300040: Loft05
+    3300042: seat
+    3300044: seatBack
+    3300046: seatFrame
+    3300048: Sphere01
+    3300050: Sphere02
+    3300052: Sphere03
+    3300054: Sphere04
+    3300056: Sphere05
+    3300058: Sphere06
+    3300060: Sphere07
+    3300062: Sphere08
+    3300064: uBumpers
+    4300000: caps
+    4300002: cart
+    4300004: Handle
+    4300006: Gate
+    4300008: seatBack
+    4300010: lBumpers
+    4300012: uBumpers
+    4300014: seatFrame
+    4300016: seat
+    4300018: Line01
+    4300020: Cylinder01
+    4300022: Sphere01
+    4300024: Sphere02
+    4300026: Box01
+    4300028: Loft01
+    4300030: Line02
+    4300032: Cylinder02
+    4300034: Sphere04
+    4300036: Loft02
+    4300038: Box02
+    4300040: Sphere03
+    4300042: Sphere05
+    4300044: Line05
+    4300046: Cylinder03
+    4300048: Sphere06
+    4300050: Loft04
+    4300052: Box04
+    4300054: Loft05
+    4300056: Line06
+    4300058: Cylinder04
+    4300060: Sphere07
+    4300062: Sphere08
+    4300064: Box05
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
