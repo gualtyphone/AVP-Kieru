@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 01cda3e24ef6d0d41a5d5997127b498c
+timeCreated: 1523122216
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cube1_default
+    100002: //RootNode
+    100004: Tube4_copy10_default
+    100006: Tube4_copy11_default
+    100008: Tube4_copy12_default
+    100010: Tube4_copy13_default
+    100012: Tube4_copy14_default
+    100014: Tube4_copy15_default
+    100016: Tube4_copy16_default
+    100018: Tube4_copy17_default
+    100020: Tube4_copy18_default
+    100022: Tube4_copy4_default
+    100024: Tube4_copy5_default
+    100026: Tube4_copy6_default
+    100028: Tube4_copy7_default
+    100030: Tube4_copy8_default
+    100032: Tube4_copy9_default
+    100034: Tube4_default
+    400000: cube1_default
+    400002: //RootNode
+    400004: Tube4_copy10_default
+    400006: Tube4_copy11_default
+    400008: Tube4_copy12_default
+    400010: Tube4_copy13_default
+    400012: Tube4_copy14_default
+    400014: Tube4_copy15_default
+    400016: Tube4_copy16_default
+    400018: Tube4_copy17_default
+    400020: Tube4_copy18_default
+    400022: Tube4_copy4_default
+    400024: Tube4_copy5_default
+    400026: Tube4_copy6_default
+    400028: Tube4_copy7_default
+    400030: Tube4_copy8_default
+    400032: Tube4_copy9_default
+    400034: Tube4_default
+    2100000: cube1_defaultMat
+    2100002: Tube4_copy10_defaultMat
+    2100004: Tube4_copy11_defaultMat
+    2100006: Tube4_copy12_defaultMat
+    2100008: Tube4_copy13_defaultMat
+    2100010: Tube4_copy14_defaultMat
+    2100012: Tube4_copy15_defaultMat
+    2100014: Tube4_copy16_defaultMat
+    2100016: Tube4_copy17_defaultMat
+    2100018: Tube4_copy18_defaultMat
+    2100020: Tube4_copy4_defaultMat
+    2100022: Tube4_copy5_defaultMat
+    2100024: Tube4_copy6_defaultMat
+    2100026: Tube4_copy7_defaultMat
+    2100028: Tube4_copy8_defaultMat
+    2100030: Tube4_copy9_defaultMat
+    2100032: Tube4_defaultMat
+    2300000: cube1_default
+    2300002: Tube4_copy10_default
+    2300004: Tube4_copy11_default
+    2300006: Tube4_copy12_default
+    2300008: Tube4_copy13_default
+    2300010: Tube4_copy14_default
+    2300012: Tube4_copy15_default
+    2300014: Tube4_copy16_default
+    2300016: Tube4_copy17_default
+    2300018: Tube4_copy18_default
+    2300020: Tube4_copy4_default
+    2300022: Tube4_copy5_default
+    2300024: Tube4_copy6_default
+    2300026: Tube4_copy7_default
+    2300028: Tube4_copy8_default
+    2300030: Tube4_copy9_default
+    2300032: Tube4_default
+    3300000: cube1_default
+    3300002: Tube4_copy10_default
+    3300004: Tube4_copy11_default
+    3300006: Tube4_copy12_default
+    3300008: Tube4_copy13_default
+    3300010: Tube4_copy14_default
+    3300012: Tube4_copy15_default
+    3300014: Tube4_copy16_default
+    3300016: Tube4_copy17_default
+    3300018: Tube4_copy18_default
+    3300020: Tube4_copy4_default
+    3300022: Tube4_copy5_default
+    3300024: Tube4_copy6_default
+    3300026: Tube4_copy7_default
+    3300028: Tube4_copy8_default
+    3300030: Tube4_copy9_default
+    3300032: Tube4_default
+    4300000: cube1_default
+    4300002: Tube4_copy10_default
+    4300004: Tube4_copy11_default
+    4300006: Tube4_copy12_default
+    4300008: Tube4_copy13_default
+    4300010: Tube4_copy14_default
+    4300012: Tube4_copy15_default
+    4300014: Tube4_copy16_default
+    4300016: Tube4_copy17_default
+    4300018: Tube4_copy18_default
+    4300020: Tube4_copy4_default
+    4300022: Tube4_copy5_default
+    4300024: Tube4_copy6_default
+    4300026: Tube4_copy7_default
+    4300028: Tube4_copy8_default
+    4300030: Tube4_copy9_default
+    4300032: Tube4_default
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
