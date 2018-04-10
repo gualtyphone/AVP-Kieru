@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 8e4159461e672714a88f4a24f721b41d
+timeCreated: 1523392735
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box1363
+    100002: Box1364
+    100004: Box1365
+    100006: Box1366
+    100008: Camera01
+    100010: Camera01.Target
+    100012: Cylinder10
+    100014: Cylinder11
+    100016: Cylinder12
+    100018: Cylinder13
+    100020: Cylinder14
+    100022: Cylinder15
+    100024: Cylinder16
+    100026: Cylinder17
+    100028: Line110
+    100030: Line111
+    100032: Line112
+    100034: //RootNode
+    100036: Spot01
+    100038: Spot01.Target
+    100040: Spot02
+    100042: Spot02.Target
+    100044: "\u706F"
+    400000: Box1363
+    400002: Box1364
+    400004: Box1365
+    400006: Box1366
+    400008: Camera01
+    400010: Camera01.Target
+    400012: Cylinder10
+    400014: Cylinder11
+    400016: Cylinder12
+    400018: Cylinder13
+    400020: Cylinder14
+    400022: Cylinder15
+    400024: Cylinder16
+    400026: Cylinder17
+    400028: Line110
+    400030: Line111
+    400032: Line112
+    400034: //RootNode
+    400036: Spot01
+    400038: Spot01.Target
+    400040: Spot02
+    400042: Spot02.Target
+    400044: "\u706F"
+    2000000: Camera01
+    2100000: nn03
+    2100002: qqq03
+    2100004: No Name
+    2100006: zz12fg
+    2100008: zz12
+    2300000: Box1363
+    2300002: Box1364
+    2300004: Box1365
+    2300006: Box1366
+    2300008: Cylinder10
+    2300010: Cylinder11
+    2300012: Cylinder12
+    2300014: Cylinder13
+    2300016: Cylinder14
+    2300018: Cylinder15
+    2300020: Cylinder16
+    2300022: Cylinder17
+    2300024: Line111
+    2300026: Line112
+    3300000: Box1363
+    3300002: Box1364
+    3300004: Box1365
+    3300006: Box1366
+    3300008: Cylinder10
+    3300010: Cylinder11
+    3300012: Cylinder12
+    3300014: Cylinder13
+    3300016: Cylinder14
+    3300018: Cylinder15
+    3300020: Cylinder16
+    3300022: Cylinder17
+    3300024: Line111
+    3300026: Line112
+    4300000: Cylinder13
+    4300002: Box1363
+    4300004: Cylinder10
+    4300006: Box1365
+    4300008: Cylinder11
+    4300010: Cylinder12
+    4300012: Box1364
+    4300014: Box1366
+    4300016: Cylinder14
+    4300018: Cylinder15
+    4300020: Line111
+    4300022: Cylinder16
+    4300024: Cylinder17
+    4300026: Line112
+    9500000: //RootNode
+    10800000: Spot01
+    10800002: Spot02
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

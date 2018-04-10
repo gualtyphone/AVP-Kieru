@@ -779,6 +779,7 @@ GameObject:
   - component: {fileID: 95505302669862682}
   - component: {fileID: 114464086378368444}
   - component: {fileID: 136451252601914478}
+  - component: {fileID: 135515592267369194}
   m_Layer: 0
   m_Name: malcolm@Walking
   m_TagString: Untagged
@@ -2259,12 +2260,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93605ee2b9ba87e41a5c71f939a20873, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  randomRot: 0
-  speed: 0
-  sleep: 0
-  distance: 0
-  debug: 0
+  randomRot: 1
+  speed: 10
+  sleep: 5
+  distance: 50
   target: {x: 0, y: 0, z: 0}
+  ortarget: {x: 0, y: 0, z: 0}
+  rb: {fileID: 0}
+  text: 0
 --- !u!114 &114676882275829930
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2309,6 +2312,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b3cf6935fbf67e42b8d6f36d8ff274f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!135 &135515592267369194
+SphereCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1811534688881684}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.8
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!136 &136451252601914478
 CapsuleCollider:
   m_ObjectHideFlags: 1

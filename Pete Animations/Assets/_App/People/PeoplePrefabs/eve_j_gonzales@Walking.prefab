@@ -967,6 +967,7 @@ GameObject:
   - component: {fileID: 95423993855920500}
   - component: {fileID: 114430970076196496}
   - component: {fileID: 136016417347107496}
+  - component: {fileID: 135304644449571414}
   m_Layer: 0
   m_Name: eve_j_gonzales@Walking
   m_TagString: Untagged
@@ -1985,12 +1986,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93605ee2b9ba87e41a5c71f939a20873, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  randomRot: 0
-  speed: 0
-  sleep: 0
-  distance: 0
-  debug: 0
+  randomRot: 1
+  speed: 10
+  sleep: 5
+  distance: 50
   target: {x: 0, y: 0, z: 0}
+  ortarget: {x: 0, y: 0, z: 0}
+  rb: {fileID: 0}
+  text: 0
+--- !u!135 &135304644449571414
+SphereCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1921079300050148}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.8
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!136 &136016417347107496
 CapsuleCollider:
   m_ObjectHideFlags: 1
