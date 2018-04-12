@@ -2241,9 +2241,9 @@ Animator:
   m_GameObject: {fileID: 1028731871264714}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 3189f2c85f9bfad4b92b7606578c22f8, type: 3}
-  m_Controller: {fileID: 9100000, guid: e6c9f05e71fe61442b89f2c82d939ca9, type: 2}
-  m_CullingMode: 1
-  m_UpdateMode: 0
+  m_Controller: {fileID: 9100000, guid: 7b63fb763cefa434f8737b39fdb00dca, type: 2}
+  m_CullingMode: 2
+  m_UpdateMode: 2
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
@@ -2262,9 +2262,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   randomRot: 1
   speed: 10
-  sleep: 50
+  sleep: 35
   distance: 50
   target: {x: 0, y: 0, z: 0}
+  midTarget: {x: 0, y: 0, z: 0}
   ortarget: {x: 0, y: 0, z: 0}
   rb: {fileID: 0}
   text: 0
@@ -2809,7 +2810,7 @@ NavMeshAgent:
   m_GameObject: {fileID: 1028731871264714}
   m_Enabled: 1
   m_AgentTypeID: 0
-  m_Radius: 0.5
+  m_Radius: 0.2
   m_Speed: 3.5
   m_Acceleration: 8
   avoidancePriority: 50

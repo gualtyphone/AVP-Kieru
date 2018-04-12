@@ -19,6 +19,8 @@ public class IdentActorController : MonoBehaviour {
 
     int spawnIndex;
 
+    bool mid = false;
+
 
     void Start () {
         rb = GetComponent<Rigidbody>();
@@ -51,7 +53,7 @@ public class IdentActorController : MonoBehaviour {
             }
             else
             {
-                if (Vector3.Distance(transform.position, midTarget) < 2.0f)
+                if (Vector3.Distance(transform.position, midTarget) < 2.0f && mid)
                 {
                     SelectTarget();
                 }
@@ -64,7 +66,7 @@ public class IdentActorController : MonoBehaviour {
         else
         {
             sleep -= Time.deltaTime;
-            if (Vector3.Distance(transform.position, midTarget) < 2.0f)
+            if (Vector3.Distance(transform.position, midTarget) < 2.0f && mid)
             {
                 SelectTarget();
             }
@@ -74,7 +76,7 @@ public class IdentActorController : MonoBehaviour {
             }
         }
 
-        GetComponent<Animator>().SetFloat("Speed", velocity.magnitude * 5);
+        GetComponent<Animator>().SetFloat("Speed", Utils.Map(velocity.magnitude, 0.01f, 0.09f, 0.0f, 1.0f));
         //Vector3 lookAt = transform.position + velocity;
         //lookAt.y = transform.position.y;
         //if (velocity.magnitude > 0.07f)
@@ -99,6 +101,7 @@ public class IdentActorController : MonoBehaviour {
 
     void SelectMidPoint()
     {
+        mid = true;
         var sp = FindObjectOfType<MidPoint>();
 
         var bounds = sp.GetComponent<BoxCollider>().bounds;
@@ -109,6 +112,7 @@ public class IdentActorController : MonoBehaviour {
 
     void SelectTarget()
     {
+        mid = false;
         var sp = FindObjectsOfType<SpawnPoint>();
         int targIndex = spawnIndex;
         do
