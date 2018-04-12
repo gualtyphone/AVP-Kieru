@@ -21,9 +21,11 @@ public class IdentActorController : MonoBehaviour {
 
     bool mid = false;
 
+    List<float> speeds;
 
     void Start () {
         rb = GetComponent<Rigidbody>();
+        speeds = new List<float>();
         startTime = Time.time;
         if (text)
         {
@@ -75,8 +77,22 @@ public class IdentActorController : MonoBehaviour {
                 SelectSpawnPoint();
             }
         }
+        if (speeds.Count > 5)
+        {
+            speeds.RemoveAt(0);
+        }
+        speeds.Add(velocity.magnitude);
 
-        GetComponent<Animator>().SetFloat("Speed", Utils.Map(velocity.magnitude, 0.01f, 0.09f, 0.0f, 1.0f));
+        float avgSpeed = 0;
+        int count = 0;
+        foreach (var sp in speeds)
+        {
+            avgSpeed += sp;
+            count++;
+        }
+        avgSpeed /= count;
+
+        GetComponent<Animator>().SetFloat("Speed", Utils.Map(avgSpeed, 0.01f, 0.09f, 0.0f, 1.0f));
         //Vector3 lookAt = transform.position + velocity;
         //lookAt.y = transform.position.y;
         //if (velocity.magnitude > 0.07f)
