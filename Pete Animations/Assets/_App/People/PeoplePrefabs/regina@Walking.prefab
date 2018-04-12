@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 95204445632465340}
   - component: {fileID: 114017292167456474}
   - component: {fileID: 136004464227130110}
-  - component: {fileID: 135826405993810382}
+  - component: {fileID: 195773027710367560}
   m_Layer: 0
   m_Name: regina@Walking
   m_TagString: Untagged
@@ -2262,7 +2262,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   randomRot: 1
   speed: 10
-  sleep: 5
+  sleep: 50
   distance: 50
   target: {x: 0, y: 0, z: 0}
   ortarget: {x: 0, y: 0, z: 0}
@@ -2312,18 +2312,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b3cf6935fbf67e42b8d6f36d8ff274f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!135 &135826405993810382
-SphereCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1028731871264714}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.8
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!136 &136004464227130110
 CapsuleCollider:
   m_ObjectHideFlags: 1
@@ -2813,3 +2801,24 @@ SkinnedMeshRenderer:
     m_Center: {x: -0.05122392, y: -0.7522795, z: 0.30858064}
     m_Extent: {x: 0.46405232, y: 0.9878559, z: 0.7600448}
   m_DirtyAABB: 0
+--- !u!195 &195773027710367560
+NavMeshAgent:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1028731871264714}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 2
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4

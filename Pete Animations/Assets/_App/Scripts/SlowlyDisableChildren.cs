@@ -41,24 +41,24 @@ public class SlowlyDisableChildren : MonoBehaviour {
 				for (int a = 0; a < deleteAtTime; a++) {
 					if (a < Models.Count) {
 						next = Random.Range (0, disappearSpeed);
-
 						int mID = Random.Range (0, Models.Count);
-						Models [mID].gameObject.SetActive (false);
+                        StartCoroutine(Disappear(Models[mID].gameObject));
 						Models.RemoveAt (mID);
 					}
 				}
 			}
-
-			//if (Models.Count == 0) {
-			//	finished = true;
-			//	//gameObject.SetActive (false);
-			//	GameObject.FindObjectOfType<Text> ().enabled = true;
-			//	Color col = GameObject.FindObjectOfType<Text> ().color;
-			//	col.a += 0.01f;
-			//	GameObject.FindObjectOfType<Text> ().color = col;
-			//}
 		} else {
 			sleep -= Time.deltaTime;
 		}
 	}
+
+    IEnumerator Disappear(GameObject obj)
+    {
+        var fade = obj.AddComponent<FadeObjectInOut>();
+        fade.fadeTime = 2;
+        fade.fadeOutOnStart = true;
+        yield return new WaitForSeconds(2);
+        obj.SetActive(false);
+        yield return null;
+    }
 }

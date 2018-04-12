@@ -827,7 +827,7 @@ GameObject:
   - component: {fileID: 95253463960464264}
   - component: {fileID: 114153561992128244}
   - component: {fileID: 136437478591269932}
-  - component: {fileID: 135270468843322064}
+  - component: {fileID: 195776987035549172}
   m_Layer: 0
   m_Name: stefani@Walking
   m_TagString: Untagged
@@ -2229,7 +2229,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   randomRot: 1
   speed: 10
-  sleep: 5
+  sleep: 50
   distance: 50
   target: {x: 0, y: 0, z: 0}
   ortarget: {x: 0, y: 0, z: 0}
@@ -2268,18 +2268,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b3cf6935fbf67e42b8d6f36d8ff274f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!135 &135270468843322064
-SphereCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1793043454893412}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.8
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!136 &136437478591269932
 CapsuleCollider:
   m_ObjectHideFlags: 1
@@ -2717,3 +2705,24 @@ SkinnedMeshRenderer:
     m_Center: {x: -0.0033797473, y: 0.6657671, z: 0.021189779}
     m_Extent: {x: 0.23161288, y: 0.22760326, z: 0.2750568}
   m_DirtyAABB: 0
+--- !u!195 &195776987035549172
+NavMeshAgent:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1793043454893412}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 2
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4

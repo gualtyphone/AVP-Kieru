@@ -855,7 +855,7 @@ GameObject:
   - component: {fileID: 95912504034186490}
   - component: {fileID: 114884083310535906}
   - component: {fileID: 136504835969112198}
-  - component: {fileID: 135569955184423822}
+  - component: {fileID: 195839140226819652}
   m_Layer: 0
   m_Name: Andromeda@Walking
   m_TagString: Untagged
@@ -2209,7 +2209,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   randomRot: 1
   speed: 10
-  sleep: 5
+  sleep: 50
   distance: 50
   target: {x: 0, y: 0, z: 0}
   ortarget: {x: 0, y: 0, z: 0}
@@ -2226,18 +2226,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b3cf6935fbf67e42b8d6f36d8ff274f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!135 &135569955184423822
-SphereCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1727774402101234}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.8
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!136 &136504835969112198
 CapsuleCollider:
   m_ObjectHideFlags: 1
@@ -2622,3 +2610,24 @@ SkinnedMeshRenderer:
     m_Center: {x: -0.00017492473, y: 0.13826156, z: 0.1998668}
     m_Extent: {x: 0.10446574, y: 0.01960659, z: 0.021763936}
   m_DirtyAABB: 0
+--- !u!195 &195839140226819652
+NavMeshAgent:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1727774402101234}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 2
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
