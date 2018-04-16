@@ -1,0 +1,5 @@
+Performing scene check  for invalid nodes, materials, maps etc. on the : 
+16/04/2018 - 14:45:46
+Invalid material :"arch49_aluminium" found on node : "arch49_007_obj_01".
+Invalid material :"arch49_leather_black" found on node : "arch49_007_obj_00".
+Scene contains : 2 invalid features.
