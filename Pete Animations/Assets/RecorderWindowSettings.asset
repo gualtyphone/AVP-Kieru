@@ -27,18 +27,18 @@ MonoBehaviour:
   m_CaptureEveryNthFrame: 1
   m_FrameRateMode: 1
   m_FrameRate: 30
-  m_FrameRateExact: 1
+  m_FrameRateExact: 64
   m_StartFrame: 0
-  m_EndFrame: 10
-  m_StartTime: 0
-  m_EndTime: 1
-  m_DurationMode: 0
+  m_EndFrame: 0
+  m_StartTime: 30
+  m_EndTime: 47
+  m_DurationMode: 3
   m_SynchFrameRate: 1
   m_BaseFileName:
-    m_Pattern: <0000>.<ext>
+    m_Pattern: img<0000>.<ext>
   m_DestinationPath:
-    m_root: 1
-    m_leaf: Recordings
+    m_root: 0
+    m_leaf: C:/Users/Gualty/Desktop/AVPrec
   m_InputsSettings:
     m_InputsSettingsAssets:
     - {fileID: 114843677892279820}
@@ -59,11 +59,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_DisplayName: Pixels
   m_Id: ba2dba0c-f5d5-4808-9a60-683f63dd425e
-  m_OutputSize: 2160
+  m_OutputSize: 1440
   m_AspectRatio: 0
   m_ForceEvenSize: 0
   source: 1
   m_CameraTag: 
   m_FlipFinalOutput: 0
   m_AllowTransparency: 0
-  m_CaptureUI: 0
+  m_CaptureUI: 1

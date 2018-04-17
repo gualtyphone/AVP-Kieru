@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class LookAtCurrentCamera : MonoBehaviour {
 
+    public Transform cam;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -11,7 +13,10 @@ public class LookAtCurrentCamera : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		transform.LookAt (Camera.current.transform);
-		transform.Rotate(new Vector3(0, 180, 0));
+        if (cam != null)
+        {
+            transform.LookAt(cam);
+            transform.Rotate(new Vector3(0, 180, 0));
+        }
 	}
 }
